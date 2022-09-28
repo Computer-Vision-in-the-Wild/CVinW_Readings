@@ -751,3 +751,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 We thank all the authors above for their great works! Related Reading List 
 
 - [[Awesome Detection Transformer]](https://github.com/IDEACVR/awesome-detection-transformer) 
+
+If you find this repository useful, please consider giving a star :star:   and citation :beer::
+
+```
+@article{li2022elevater,
+    title={ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models},
+    author={Li, Chunyuan and Liu, Haotian and Li, Liunian Harold and Zhang, Pengchuan and Aneja, Jyoti and Yang, Jianwei and Jin, Ping and Hu, Houdong and Liu, Zicheng and Lee, Yong Jae and Gao, Jianfeng},
+    journal={Neural Information Processing Systems},
+    year={2022}
+}
+```
+
