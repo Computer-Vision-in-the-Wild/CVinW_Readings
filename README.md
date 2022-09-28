@@ -15,7 +15,7 @@
   - [Object Detection in the Wild](#orange_book-object-detection-in-the-wild)
   - [Segmentation in the Wild](#orange_book-segmentation-in-the-wild)
   - [Video Classification in the Wild](#orange_book-video-classification-in-the-wild)
-  - [Others](#orange_book-others-visual-recognition-in-the-wild)
+  - [Others](#orange_book-other-visual-recognition-in-the-wild)
 - [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
   - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
 - [Acknowledgements](#beers-acknowledgements)
@@ -176,6 +176,16 @@ One major advantage of pre-trained models is the promise that they can transfer 
 </p>
 
 <p>
+<font size=3><b>[MS-CLIP]: Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training.</b></font>
+<br>
+<font size=2>Haoxuan You*, Luowei Zhou*, Bin Xiao*, Noel Codella*, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2207.12661'>[paper]</a>  <a href='https://github.com/Hxyou/MSCLIP'>[code]</a>   
+</p>
+
+
+<p>
 <font size=3><b>MultiMAE: Multi-modal Multi-task Masked Autoencoders.</b></font>
 <br>
 <font size=2>Roman Bachmann, David Mizrahi, Andrei Atanov, Amir Zamir.</font>
@@ -251,12 +261,12 @@ One major advantage of pre-trained models is the promise that they can transfer 
 </p>
 
 <p>
-<font size=3><b>[LIMoE] Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts.</b></font>
+<font size=3><b>MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining.</b></font>
 <br>
-<font size=2>Basil Mustafa, Carlos Riquelme, Joan Puigcerver, Rodolphe Jenatton, Neil Houlsby.</font>
+<font size=2>Xiaoyi Dong, Yinglin Zheng, Jianmin Bao, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu.</font>
 <br>
-<font size=2>	arXiv:2206.02770, 2022.</font>
-<a href='https://arxiv.org/abs/2206.02770'>[paper]</a> 
+<font size=2>arXiv:2208.12262, 2021</font>
+<a href='hhttps://arxiv.org/abs/2208.12262'>[paper]</a>
 </p>
 
 <p>
@@ -267,6 +277,27 @@ One major advantage of pre-trained models is the promise that they can transfer 
 <font size=2>	arXiv:2111.10050, 2022.</font>
 <a href='https://arxiv.org/abs/2111.10050'>[paper]</a> 
 </p>
+
+<p>
+<font size=3><b>[LIMoE] Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts.</b></font>
+<br>
+<font size=2>Basil Mustafa, Carlos Riquelme, Joan Puigcerver, Rodolphe Jenatton, Neil Houlsby.</font>
+<br>
+<font size=2>	arXiv:2206.02770, 2022.</font>
+<a href='https://arxiv.org/abs/2206.02770'>[paper]</a> 
+</p>
+
+
+
+<p>
+<font size=3><b>MURAL: Multimodal, Multitask Retrieval Across Languages.</b></font>
+<br>
+<font size=2>Aashi Jain, Mandy Guo, Krishna Srinivasan, Ting Chen, Sneha Kudugunta, Chao Jia, Yinfei Yang, Jason Baldridge.</font>
+<br>
+<font size=2>arXiv:2109.05125, 2022.</font>
+<a href='https://arxiv.org/abs/2109.05125'>[paper]</a> 
+</p>
+
 
 
 <p>
@@ -282,6 +313,25 @@ One major advantage of pre-trained models is the promise that they can transfer 
 
 
 ## :orange_book: Object Detection in the Wild
+
+<p>
+<font size=3><b>Open-Vocabulary Object Detection Using Captions.</b></font>
+<br>
+<font size=2>Alireza Zareian, Kevin Dela Rosa, Derek Hao Hu, Shih-Fu Chang.</font>
+<br>
+<font size=2>CVPR 2021.</font>
+<a href='https://arxiv.org/abs/2011.10678'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>MDETR: Modulated Detection for End-to-End Multi-Modal Understanding.</b></font>
+<br>
+<font size=2>Aishwarya Kamath, Mannat Singh, Yann LeCun, Gabriel Synnaeve, Ishan Misra, Nicolas Carion.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2104.12763'>[paper]</a> <a href='https://github.com/ashkamath/mdetr'>[code]</a>    
+</p>
+
 <p>
 <font size=3><b>[VILD] 
 Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
@@ -312,14 +362,7 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <a href='https://arxiv.org/abs/2112.09106'>[paper]</a> <a href='https://github.com/microsoft/RegionCLIP'>[code]</a>    
 </p>
 
-<p>
-<font size=3><b>MDETR: Modulated Detection for End-to-End Multi-Modal Understanding.</b></font>
-<br>
-<font size=2>Aishwarya Kamath, Mannat Singh, Yann LeCun, Gabriel Synnaeve, Ishan Misra, Nicolas Carion.</font>
-<br>
-<font size=2>ICCV 2021.</font>
-<a href='https://arxiv.org/abs/2104.12763'>[paper]</a> <a href='https://github.com/ashkamath/mdetr'>[code]</a>    
-</p>
+
 
 <p>
 <font size=3><b>[OV-DETR] Open-Vocabulary DETR with Conditional Matching Yuhang.</b></font>
@@ -360,6 +403,27 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <font size=2>ECCV 2022.</font>
 <a href='https://arxiv.org/abs/2204.05626'>[paper]</a>     
 </p>
+
+<p>
+<font size=3><b>FindIt: Generalized Localization with Natural Language Queries.</b></font>
+<br>
+<font size=2>Weicheng Kuo, Fred Bertsch, Wei Li, AJ Piergiovanni, Mohammad Saffar, Anelia Angelova.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.17273'>[paper]</a>     
+</p>
+
+
+<p>
+<font size=3><b>Open Vocabulary Object Detection with Pseudo Bounding-Box Labels.</b></font>
+<br>
+<font size=2>Mingfei Gao, Chen Xing, Juan Carlos Niebles, Junnan Li, Ran Xu, Wenhao Liu, Caiming Xiong.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2111.09452'>[paper]</a> <a href='https://github.com/salesforce/PB-OVD'>[code]</a>    <a href='https://blog.salesforceairesearch.com/pb-ovd-open-vocabulary-object-detector/'>[blog]</a>        
+</p>
+
+
 
 <p>
 <font size=3><b>PromptDet: Towards Open-vocabulary Detection using Uncurated Images.</b></font>
@@ -427,6 +491,28 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 
 ## :orange_book: Segmentation in the Wild
 
+
+<p>
+<font size=3><b>PhraseCut: Language-based Image Segmentation in the Wild
+</b></font>
+<br>
+<font size=2>Chenyun Wu, Zhe Lin, Scott Cohen, Trung Bui, Subhransu Maji.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2008.01187'>[paper]</a>  <a href='https://people.cs.umass.edu/~chenyun/publication/phrasecut/'>[project]</a>     
+</p>
+
+
+<p>
+<font size=3><b>GroupViT: Semantic Segmentation Emerges from Text Supervision
+</b></font>
+<br>
+<font size=2>Jiarui Xu, Shalini De Mello, Sifei Liu, Wonmin Byeon, Thomas Breuel, Jan Kautz, Xiaolong Wang.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2202.11094'>[paper]</a>  <a href='https://github.com/NVlabs/GroupViT/'>[code]</a>   <a href='https://jerryxu.net/GroupViT/'>[project]</a>     
+</p>
+
 <p>
 <font size=3><b>[CLIPSeg] 
 Image Segmentation Using Text and Image Prompts.
@@ -436,6 +522,16 @@ Image Segmentation Using Text and Image Prompts.
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2112.10003'>[paper]</a>  <a href='https://github.com/timojl/clipseg'>[code]</a>    
+</p>
+
+
+<p>
+<font size=3><b>DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting.</b></font>
+<br>
+<font size=2>Yongming Rao*, Wenliang Zhao*, Guangyi Chen, Yansong Tang, Zheng Zhu, Guan Huang, Jie Zhou, Jiwen Lu.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/abs/2112.01518'>[paper]</a>  <a href='https://github.com/raoyongming/DenseCLIP'>[code]</a>    
 </p>
 
 <p>
@@ -448,6 +544,40 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 <font size=2>ECCV 2022.</font>
 <a href='https://arxiv.org/abs/2112.12143'>[paper]</a>
 </p>
+
+
+<p>
+<font size=3><b>A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model.</b></font>
+<br>
+<font size=2>Mengde Xu, Zheng Zhang, Fangyun Wei, Yutong Lin, Yue Cao, Han Hu, Xiang Bai.</font>
+<br>
+<font size=2>arXiv:2112.14757, 2021</font>
+<a href='https://arxiv.org/abs/2112.14757'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>[MaskCLIP] Extract Free Dense Labels from CLIP.</b></font>
+<br>
+<font size=2>Chong Zhou, Chen Change Loy, Bo Dai.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2112.01071'>[paper]</a> <a href='https://github.com/chongzhou96/MaskCLIP'>[code]</a>    
+</p>
+
+
+<p>
+<font size=3><b>Open-Vocabulary Panoptic Segmentation with MaskCLIP.</b></font>
+<br>
+<font size=2>Zheng Ding, Jieke Wang, Zhuowen Tu.</font>
+<br>
+<font size=2>arXiv:2208.08984, 2022</font>
+<a href='https://arxiv.org/abs/2208.08984'>[paper]</a>
+</p>
+
+
+
+
+
 
 ## :orange_book: Video Classification in the Wild
 
@@ -470,9 +600,7 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 </p>
 
 
-
-
-## :orange_book: Others Visual Recognition in the Wild
+## :orange_book: Other Visual Recognition in the Wild
 
 <p>
 <font size=3><b>RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection.</b></font>
