@@ -591,7 +591,7 @@ Language-driven Semantic Segmentation.
 <br>
 <font size=2>Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, René Ranftl.</font>
 <br>
-<font size=2>ECCV 2022.</font>
+<font size=2>ICLR 2022.</font>
 <a href='https://arxiv.org/pdf/2201.03546.pdf'>[paper]</a>
 </p>
 
