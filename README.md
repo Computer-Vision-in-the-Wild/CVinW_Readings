@@ -646,6 +646,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>[CoOp (IJCV version)] Learning to Prompt for Vision-Language Models.</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.</font>
+<br>
+<font size=2>IJCV 2022</font>
+<a href='https://link.springer.com/article/10.1007/s11263-022-01653-1'>[paper]</a> <a href='https://github.com/KaiyangZhou/CoOp'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>Prompt Distribution Learning.</b></font>
 <br>
 <font size=2>Yuning Lu, Jianzhuang Liu, Yonggang Zhang, Yajing Liu, Xinmei Tian.</font>
