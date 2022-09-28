@@ -259,6 +259,28 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 
 ## :orange_book: Segmentation in the Wild
 
+<p>
+<font size=3><b>[CLIPSeg] 
+Image Segmentation Using Text and Image Prompts.
+</b></font>
+<br>
+<font size=2>Timo Lüddecke, Alexander S. Ecker.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2112.10003'>[paper]</a>  <a href='https://github.com/timojl/clipseg'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[OpenSeg] 
+Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
+</b></font>
+<br>
+<font size=2>Golnaz Ghiasi, Xiuye Gu, Yin Cui, Tsung-Yi Lin.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2112.12143'>[paper]</a>
+</p>
+
 ## :orange_book: Video Classification in the Wild
 
 <p>
