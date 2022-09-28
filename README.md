@@ -536,7 +536,6 @@ Image Segmentation Using Text and Image Prompts.
 <a href='https://arxiv.org/abs/2112.10003'>[paper]</a>  <a href='https://github.com/timojl/clipseg'>[code]</a>    
 </p>
 
-
 <p>
 <font size=3><b>DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting.</b></font>
 <br>
@@ -556,7 +555,6 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 <font size=2>ECCV 2022.</font>
 <a href='https://arxiv.org/abs/2112.12143'>[paper]</a>
 </p>
-
 
 <p>
 <font size=3><b>A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model.</b></font>
@@ -586,7 +584,16 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 <a href='https://arxiv.org/abs/2208.08984'>[paper]</a>
 </p>
 
-
+<p>
+<font size=3><b>[OpenSeg] 
+Language-driven Semantic Segmentation.
+</b></font>
+<br>
+<font size=2>Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, René Ranftl.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/pdf/2201.03546.pdf'>[paper]</a>
+</p>
 
 
 
