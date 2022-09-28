@@ -546,6 +546,17 @@ Image Segmentation Using Text and Image Prompts.
 </p>
 
 <p>
+<font size=3><b>
+Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling.
+</b></font>
+<br>
+<font size=2>Dat Huynh, Jason Kuen, Zhe Lin, Jiuxiang Gu, Ehsan Elhamifar.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2111.12698'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>[OpenSeg] 
 Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 </b></font>
