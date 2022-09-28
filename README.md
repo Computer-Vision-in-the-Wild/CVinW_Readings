@@ -585,7 +585,7 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 </p>
 
 <p>
-<font size=3><b>[OpenSeg] 
+<font size=3><b>[LSeg] 
 Language-driven Semantic Segmentation.
 </b></font>
 <br>
