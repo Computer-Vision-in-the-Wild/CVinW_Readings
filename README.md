@@ -43,7 +43,7 @@ input image distribution and output concept set. The 2D chart is divided into fo
 
 </td>
 <td>
-    <img src="images/fig_cvinw.png" style="width:95%;height:80%;"> 
+    <img src="images/fig_cvinw.png" style="width:100%;"> 
 </td>
 </tr> 
 <tr>
@@ -67,7 +67,7 @@ One major advantage of pre-trained models is the promise that they can transfer 
 
 </td>
 <td>
-    <img src="images/fig_adapation_cost.png" style="width:500px;height:300px;">
+    <img src="images/fig_adapation_cost.png" style="width:100%;">
 </td>
 </tr> 
 <tr>
