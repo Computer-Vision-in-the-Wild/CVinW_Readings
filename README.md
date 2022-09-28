@@ -1,6 +1,6 @@
 # CVinW Readings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 
-This is a collecttion of papers on the topic of ``Computer Vision in the Wild (CVinW)''. If you find some missing papers or resourses, please open issues or pull requests (recommended).
+``[Computer Vision in the Wild (CVinW)](https://computer-vision-in-the-wild.github.io/eccv-2022/)'' is an emerging field. This writeup provides a quick introduction of CVinW and maintains a collection of papers on the topic. If you find some missing papers or resourses, please open issues or pull requests (recommended).
 
 
 # Table of Contents
@@ -24,11 +24,58 @@ This is a collecttion of papers on the topic of ``Computer Vision in the Wild (C
 # What is Computer Vision in the Wild?
 
 ### :star: Goals of CVinW
-Developing a transferable foundation model/system that can *effortlessly* adapt to *a large range of visual tasks* in the wild. It comes with two key factors: (i) The task transfer scenarios are broad, and (ii) The task transfer cost is low 
+Developing a transferable foundation model/system that can *effortlessly* adapt to *a large range of visual tasks* in the wild. It comes with two key factors: (i) The task transfer scenarios are broad, and (ii) The task transfer cost is low. The main idea is illustrated as follows, please see the detailed description in [ELEVATER paper](https://arxiv.org/abs/2204.08790). 
 
 ### :one: Task Transfer Scenarios are Broad
 
+We illustrate and compare CVinW with other settings using a 2D chart in Figure 1, where the space is constructed with two orthogonal dimensions:
+input image distribution and output concept set. The 2D chart is divided into four quadrants, based on how the model evaluation stage is different from model development stage. For any visual recognition problems at different granularity such as image classification, object detection and segmentation, the modeling setup cann be categorized into one of the four settings. We see an emerging trend on moving towards CVinW. Interested in the various pre-trained vision models that move towards CVinW? please check out Section [``Papers on Task-level Transfer with Pre-trained Models''](#papers-on-task-level-transfer-with-pre-trained-models).
+
+<table>
+<tr>
+  <td  width="50%">
+<ul>
+  <li><b>The Close-Set Setting. </b> Both training and evaluation distributions are consistent in both dimensions, a typical setting in ML/CV textbooks.</li>
+  <li><b>Open-Set/Vocabulary/World Setting.</b> It allows new concepts in evaluation, while typically remains the same visual domain. Please see examples in <a href='https://arxiv.org/abs/1707.00600'>image classification</a>  and <a href='https://arxiv.org/abs/2011.10678'>object detection</a>. </li>
+  <li><b>Domain Generalization Setting.</b> Domain shift allows new visual domain in evaluation, while typically remains the same concept pool. Please see examples such as <a href='https://arxiv.org/abs/2007.01434'>DomainBed</a>  and <a href='http://ai.bu.edu/M3SDA/'>DomainNet</a>.  </li>
+  <li style="background-color:powderblue;"><b>Computer Vision in the Wild Setting. </b> CVinW allows the flexibility in both dimensions, where any new tasks/datasets in the wild essentially fall into.</li>
+</ul>    
+
+</td>
+<td>
+    <img src="images/fig_cvinw.png" style="width:500px;height:320px;"> 
+</td>
+</tr> 
+<tr>
+  <th> A brief definition with a four-quadrant chart </th>
+  <th>Figure 1: The comparison of CVinW with other existing settings</th>
+</tr>
+</table>
+
+
 ### :two: Task Transfer Cost is Low
+
+One major advantage of pre-trained models is the promise that they can transfer to downstream tasks *effortlessly*. The model adaptation cost is considered in two orthogonal dimensions: *sample-efficiency* and *parameter-efficiency*, as illustrated in Figure 2.  The bottom-left corner and  top-right corner is the most inexpensive and  expensive adaptation strategy, respectively. One may interpolate and  make combinations in the 2D space, to get different model adaptation methods with different cost. To efficient adapt large vision models of the gradaully increaseing size, we see an emerging need on efficient model adaptation. Interested in contributing your smart efficient adaptation algorithms and see how it differs from existing papers? please check out Section [``Papers on Efficient Model Adaptation''](#papers-on-efficient-model-adaptation)  .
+
+<table>
+<tr>
+  <td  width="50%">
+<ul>
+  <li><b>Sample-efficiency: Zero-, Few-, and Full-shot. </b> Due to the high cost of annotating data, it is often desired to provide a small number of labeled image-label pairs in downstream datasets. Transferable models should be able to reach high performance in this data-limited scenario..</li>
+  <li><b>Parameter-efficiency: Frozen Model Inference, Prompting Tuning, Linear Probing vs Full Model Fine-tuning..</b> A smaller number of trainable parameter in model adaptation typically means a small training cost in a new task. </li>
+</ul>    
+
+</td>
+<td>
+    <img src="images/fig_adapation_cost.png" style="width:500px;height:300px;">
+</td>
+</tr> 
+<tr>
+  <th> A breakdown definition of efficient model adaptation</th>
+  <th>Figure 2: The 2D chart of model adaptation cost.</th>
+</tr>
+</table>
+
  
 ###  :cinema: Benchmarks
 
