@@ -43,7 +43,7 @@ input image distribution and output concept set. The 2D chart is divided into fo
 
 </td>
 <td>
-    <img src="images/fig_cvinw.png" style="width:500px;height:320px;"> 
+    <img src="images/fig_cvinw.png" style="width:95%;height:80%;"> 
 </td>
 </tr> 
 <tr>
