@@ -18,6 +18,7 @@
   - [Others](#orange_book-other-visual-recognition-in-the-wild)
 - [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
   - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
+  - [Others](#blue_book-other-efficient-model-adaptation-methods)
 - [Acknowledgements](#beers-acknowledgements)
 
 
@@ -87,6 +88,11 @@ One major advantage of pre-trained models is the promise that they can transfer 
 <font size=2> NeurIPS 2022 (Datasets and Benchmarks Track).</font>
 <a href='https://arxiv.org/abs/2204.08790'>[paper]</a> <a href='https://computer-vision-in-the-wild.github.io/ELEVATER/'>[benchmark]</a>    
 </p>
+
+* [09/2022] Organizing ECCV Workshop [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/eccv-2022/), where two challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
+  - [``*Image Classification in the Wild (ICinW)*''](https://eval.ai/web/challenges/challenge-page/1832/overview) Challenge evaluates on 20 image classification tasks.
+  - [``*Object Detection in the Wild (ODinW)*''](https://eval.ai/web/challenges/challenge-page/1839/overview) Challenge evaluates on 35 object detection tasks.
+
 
 
 # :fire: Papers on Task-level Transfer with Pre-trained Models
@@ -615,6 +621,8 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 
 ## :blue_book: Parameter-Efficient Methods 
 
+$\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
+
 <p>
 <font size=3><b>[CoOp] Conditional Prompt Learning for Vision-Language Models.</b></font>
 <br>
@@ -701,6 +709,8 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 
 
 ## :blue_book: Other Efficient Model Adaptation Methods
+
+
 
 <p>
 <font size=3><b>[DetPro] Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model.</b></font>
