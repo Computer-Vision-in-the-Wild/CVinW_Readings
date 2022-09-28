@@ -613,7 +613,122 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 
 # :snowflake: Papers on Efficient Model Adaptation
 
-## :blue_book: Parameter-Efficient Methods
+## :blue_book: Parameter-Efficient Methods 
+
+<p>
+<font size=3><b>[CoOp] Conditional Prompt Learning for Vision-Language Models.</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.</font>
+<br>
+<font size=2>CVPR 2022</font>
+<a href='https://arxiv.org/abs/2203.05557'>[paper]</a> <a href='https://github.com/KaiyangZhou/CoOp'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Prompt Distribution Learning.</b></font>
+<br>
+<font size=2>Yuning Lu, Jianzhuang Liu, Yonggang Zhang, Yajing Liu, Xinmei Tian.</font>
+<br>
+<font size=2>CVPR 2022</font>
+<a href='https://arxiv.org/abs/2205.03340'>[paper]</a>
+</p>
+
+
+<p>
+<font size=3><b>[VPT] Visual Prompt Tuning.</b></font>
+<br>
+<font size=2>Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2203.12119'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Exploring Visual Prompts for Adapting Large-Scale Models.</b></font>
+<br>
+<font size=2>Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.</font>
+<br>
+<font size=2>	arXiv:2203.17274 2022</font>
+<a href='https://arxiv.org/abs/2203.17274'>[paper]</a>  <a href='https://github.com/hjbahng/visual_prompting'>[code]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[project]</a>
+</p>
+
+<p>
+<font size=3><b>Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling.</b></font>
+<br>
+<font size=2>Renrui Zhang, Rongyao Fang, Wei Zhang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2111.03930'>[paper]</a>  <a href='https://github.com/gaopengcuhk/Tip-Adapter'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>CLIP-Adapter: Better Vision-Language Models with Feature Adapters.</b></font>
+<br>
+<font size=2>Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao.</font>
+<br>
+<font size=2>	arXiv:2110.04544 2022</font>
+<a href='https://arxiv.org/abs/2110.04544'>[paper]</a> <a href='https://github.com/gaopengcuhk/CLIP-Adapter'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>[NOAH] Neural Prompt Search.</b></font>
+<br>
+<font size=2>Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu.</font>
+<br>
+<font size=2>arXiv:2206.04673, 2022</font>
+<a href='https://arxiv.org/abs/2206.04673'>[paper]</a> <a href='https://github.com/ZhangYuanhan-AI/NOAH'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Parameter-efficient Fine-tuning for Vision Transformers.</b></font>
+<br>
+<font size=2>Xuehai He, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.</font>
+<br>
+<font size=2>	arXiv:2203.16329, 2022</font>
+<a href='https://arxiv.org/abs/2203.16329'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>[CuPL] What does a platypus look like? Generating customized prompts for zero-shot image classification.</b></font>
+<br>
+<font size=2>Sarah Pratt, Rosanne Liu, Ali Farhadi.</font>
+<br>
+<font size=2>arXiv:2209.03320, 2022</font>
+<a href='https://arxiv.org/abs/2209.03320'>[paper]</a>  <a href='https://github.com/sarahpratt/CuPL'>[code]</a>
+</p>
+
+
+
+
+## :blue_book: Other Efficient Model Adaptation Methods
+
+<p>
+<font size=3><b>[DetPro] Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model.</b></font>
+<br>
+<font size=2>Yu Du, Fangyun Wei, Zihe Zhang, Miaojing Shi, Yue Gao, Guoqi Li.</font>
+<br>
+<font size=2>CVPR 2022</font>
+<a href='https://arxiv.org/abs/2203.14940'>[paper]</a> <a href='https://github.com/dyabel/detpro'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>[WiSE-FT] Robust Fine-Tuning of Zero-Shot Models.</b></font>
+<br>
+<font size=2>Mitchell Wortsman, Gabriel Ilharco, Jong Wook Kim, Mike Li, Simon Kornblith, Rebecca Roelofs, Raphael Gontijo Lopes, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, Ludwig Schmidt.</font>
+<br>
+<font size=2>CVPR 2022</font>
+<a href='https://arxiv.org/abs/2109.01903'>[paper]</a> <a href='https://github.com/mlfoundations/wise-ft'>[code]</a>
+</p>
+
+
+<p>
+<font size=3><b>[PAINT] Patching open-vocabulary models by interpolating weights.</b></font>
+<br>
+<font size=2>Gabriel Ilharco, Mitchell Wortsman, Samir Yitzhak Gadre, Shuran Song, Hannaneh Hajishirzi, Simon Kornblith, Ali Farhadi, Ludwig Schmidt.</font>
+<br>
+<font size=2>arXiv:2208.05592 2022</font>
+<a href='https://arxiv.org/abs/2208.05592'>[paper]</a>
+</p>
 
 # :beers: Acknowledgements
 
