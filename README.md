@@ -94,7 +94,7 @@ One major advantage of pre-trained models is the promise that they can transfer 
 ## :orange_book: Image Classification in the Wild
 
 <p>
-<font size=3><b>Learning Transferable Visual Models From Natural Language Supervision.</b></font>
+<font size=3><b>[CLIP] Learning Transferable Visual Models From Natural Language Supervision.</b></font>
 <br>
 <font size=2>Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.</font>
 <br>
@@ -103,7 +103,7 @@ One major advantage of pre-trained models is the promise that they can transfer 
 </p>
 
 <p>
-<font size=3><b>Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.</b></font>
+<font size=3><b>[ALIGN] Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.</b></font>
 <br>
 <font size=2>Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.</font>
 <br>
@@ -261,7 +261,37 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 
 ## :orange_book: Video Classification in the Wild
 
+<p>
+<font size=3><b>Expanding Language-Image Pretrained Models for General Video Recognition.</b></font>
+<br>
+<font size=2>Bolin Ni, Houwen Peng, Minghao Chen, Songyang Zhang, Gaofeng Meng, Jianlong Fu, Shiming Xiang, Haibin Ling.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2208.02816'>[paper]</a> <a href='https://github.com/microsoft/VideoX'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models.</b></font>
+<br>
+<font size=2>Rui Qian, Yeqing Li, Zheng Xu, Ming-Hsuan Yang, Serge Belongie, Yin Cui.</font>
+<br>
+<font size=2>	arXiv:2207.07646</font>
+<a href='https://arxiv.org/abs/2207.07646v1'>[paper]</a>
+</p>
+
+
+
+
 ## :orange_book: Others Visual Recognition in the Wild
+
+<p>
+<font size=3><b>RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection.</b></font>
+<br>
+<font size=2>Hangjie Yuan, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni, Mingqian Tang.</font>
+<br>
+<font size=2>NeurIPS 2022</font>
+<a href='https://arxiv.org/abs/2209.01814'>[paper]</a> <a href='https://github.com/JacobYuan7/RLIP'>[code]</a>    
+</p>
 
 # :snowflake: Papers on Efficient Model Adaptation
 
