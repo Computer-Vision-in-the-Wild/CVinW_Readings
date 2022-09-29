@@ -648,21 +648,21 @@ Language-driven Semantic Segmentation.
 $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 
 <p>
-<font size=3><b>[CoOp] Conditional Prompt Learning for Vision-Language Models.</b></font>
-<br>
-<font size=2>Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.</font>
-<br>
-<font size=2>CVPR 2022</font>
-<a href='https://arxiv.org/abs/2203.05557'>[paper]</a> <a href='https://github.com/KaiyangZhou/CoOp'>[code]</a>
-</p>
-
-<p>
-<font size=3><b>[CoOp (IJCV version)] Learning to Prompt for Vision-Language Models.</b></font>
+<font size=3><b>[CoOp] Learning to Prompt for Vision-Language Models.</b></font>
 <br>
 <font size=2>Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.</font>
 <br>
 <font size=2>IJCV 2022</font>
 <a href='https://link.springer.com/article/10.1007/s11263-022-01653-1'>[paper]</a> <a href='https://github.com/KaiyangZhou/CoOp'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>[CoCoOp] Conditional Prompt Learning for Vision-Language Models..</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.</font>
+<br>
+<font size=2>CVPR 2022</font>
+<a href='https://arxiv.org/abs/2203.05557'>[paper]</a> <a href='https://github.com/KaiyangZhou/CoOp'>[code]</a>
 </p>
 
 <p>
@@ -674,7 +674,42 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2205.03340'>[paper]</a>
 </p>
 
+<p>
+<font size=3><b>DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting.</b></font>
+<br>
+<font size=2>Yongming Rao*, Wenliang Zhao*, Guangyi Chen, Yansong Tang, Zheng Zhu, Guan Huang, Jie Zhou, Jiwen Lu.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/abs/2112.01518'>[paper]</a>  <a href='https://github.com/raoyongming/DenseCLIP'>[code]</a>    
+</p>
 
+<p>
+<font size=3><b>Learning to Prompt for Continual Learning.</b></font>
+<br>
+<font size=2>Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot, Jennifer Dy, Tomas Pfister.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/abs/2112.08654'>[paper]</a> <a href='https://github.com/google-research/l2p'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos.</b></font>
+<br>
+<font size=2>Muheng Li, Lei Chen, Yueqi Duan, Zhilan Hu, Jianjiang Feng, Jie Zhou, Jiwen Lu.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/pdf/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks.</b></font>
+<br>
+<font size=2>Yi-Lin Sung, Jaemin Cho, Mohit Bansal.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='(https://arxiv.org/pdf/2112.06825'>[paper]</a> <a href='https://github.com/ylsung/VL_adapter'>[code]</a>    
+</p>
+  
 <p>
 <font size=3><b>[VPT] Visual Prompt Tuning.</b></font>
 <br>
@@ -682,15 +717,6 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>ECCV 2022</font>
 <a href='https://arxiv.org/abs/2203.12119'>[paper]</a>
-</p>
-
-<p>
-<font size=3><b>Exploring Visual Prompts for Adapting Large-Scale Models.</b></font>
-<br>
-<font size=2>Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.</font>
-<br>
-<font size=2>	arXiv:2203.17274 2022</font>
-<a href='https://arxiv.org/abs/2203.17274'>[paper]</a>  <a href='https://github.com/hjbahng/visual_prompting'>[code]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[project]</a>
 </p>
 
 <p>
@@ -703,12 +729,40 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>Expanding Language-Image Pretrained Models for General Video Recognition.</b></font>
+<br>
+<font size=2>Bolin Ni, Houwen Peng, Minghao Chen, Songyang Zhang, Gaofeng Meng, Jianlong Fu, Shiming Xiang, Haibin Ling.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2208.02816'>[paper]</a>  <a href='https://aka.ms/X-CLIP'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition.</b></font>
+<br>
+<font size=2>Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.</font>
+<br>
+<font size=2>NeurIPS 2022</font>
+<a href='https://arxiv.org/abs/2206.13559'>[paper]</a> 
+</p>
+  
+
+<p>
 <font size=3><b>CLIP-Adapter: Better Vision-Language Models with Feature Adapters.</b></font>
 <br>
 <font size=2>Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao.</font>
 <br>
 <font size=2>	arXiv:2110.04544 2022</font>
 <a href='https://arxiv.org/abs/2110.04544'>[paper]</a> <a href='https://github.com/gaopengcuhk/CLIP-Adapter'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Exploring Visual Prompts for Adapting Large-Scale Models.</b></font>
+<br>
+<font size=2>Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.</font>
+<br>
+<font size=2>	arXiv:2203.17274 2022</font>
+<a href='https://arxiv.org/abs/2203.17274'>[paper]</a>  <a href='https://github.com/hjbahng/visual_prompting'>[code]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[project]</a>
 </p>
 
 <p>
@@ -738,7 +792,59 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2209.03320'>[paper]</a>  <a href='https://github.com/sarahpratt/CuPL'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition.</b></font>
+<br>
+<font size=2>Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.</font>
+<br>
+<font size=2>arXiv:2205.13535, 2022</font>
+<a href='https://arxiv.org/abs/2205.13535'>[paper]</a>  <a href='https://github.com/ShoufaChen/AdaptFormer'>[code]</a>
+</p>
 
+<p>
+<font size=3><b>Vision Transformer Adapter for Dense Predictions.</b></font>
+<br>
+<font size=2>Zhe Chen, Yuchen Duan, Wenhai Wang, Junjun He, Tong Lu, Jifeng Dai, Yu Qiao.</font>
+<br>
+<font size=2>arXiv:2205.08534, 2022</font>
+<a href='https://arxiv.org/abs/2205.08534'>[paper]</a>  <a href='https://github.com/czczup/ViT-Adapter'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Convolutional Bypasses Are Better Vision Transformer Adapters.</b></font>
+<br>
+<font size=2>Shibo Jie, Zhi-Hong Deng.</font>
+<br>
+<font size=2>arXiv:2207.07039, 2022</font>
+<a href='https://arxiv.org/abs/2207.07039'>[paper]</a>  <a href='https://github.com/JieShibo/PETL-ViT'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets.</b></font>
+<br>
+<font size=2>Hao Chen, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.</font>
+<br>
+<font size=2>arXiv:2208.07463, 2022</font>
+<a href='https://arxiv.org/abs/2208.07463'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Prompt Vision Transformer for Domain Generalization.</b></font>
+<br>
+<font size=2>Zangwei Zheng, Xiangyu Yue, Kai Wang, Yang You.</font>
+<br>
+<font size=2>arXiv:2208.08914, 2022</font>
+<a href='https://arxiv.org/abs/2208.08914'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Visual Prompting via Image Inpainting.</b></font>
+<br>
+<font size=2>Amir Bar, Yossi Gandelsman, Trevor Darrell, Amir Globerson, Alexei A. Efros.</font>
+<br>
+<font size=2>arXiv:2209.00647, 2022</font>
+<a href='https://arxiv.org/abs/2209.00647'>[paper]</a> <a href='https://yossigandelsman.github.io/visual_prompt/'>[code]</a>
+</p>
 
 
 ## :blue_book: Other Efficient Model Adaptation Methods
@@ -778,6 +884,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 We thank all the authors above for their great works! Related Reading List 
 
 - [[Awesome Detection Transformer]](https://github.com/IDEACVR/awesome-detection-transformer) 
+- [[Awesome Prompting Papers in Computer Vision]](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision)
 
 If you find this repository useful, please consider giving a star :star:   and citation :beer::
 
