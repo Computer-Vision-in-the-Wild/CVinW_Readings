@@ -359,7 +359,7 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <p>
 <font size=3><b>[GLIP] Grounded Language-Image Pre-training.</b></font>
 <br>
-<font size=2>Liunian Harold Li, Pengchuan Zhang, Haotian Zhang, Jianwei Yang, Chunyuan Li, Yiwu Zhong, Lijuan Wang, Lu Yuan, Lei Zhang, Jenq-Neng Hwang, Kai-Wei Chang, Jianfeng Gao</font>
+<font size=2>Liunian Harold Li*, Pengchuan Zhang*, Haotian Zhang*, Jianwei Yang, Chunyuan Li, Yiwu Zhong, Lijuan Wang, Lu Yuan, Lei Zhang, Jenq-Neng Hwang, Kai-Wei Chang, Jianfeng Gao</font>
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2112.03857'>[paper]</a> <a href='https://github.com/microsoft/GLIP'>[code]</a>    
@@ -467,7 +467,7 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <p>
 <font size=3><b>[GLIPv2] Unifying Localization and Vision-Language Understanding.</b></font>
 <br>
-<font size=2>Haotian Zhang, Pengchuan Zhang, Xiaowei Hu, Yen-Chun Chen, Liunian Harold Li, Xiyang Dai, Lijuan Wang, Lu Yuan, Jenq-Neng Hwang, Jianfeng Gao.</font>
+<font size=2>Haotian Zhang*, Pengchuan Zhang*, Xiaowei Hu, Yen-Chun Chen, Liunian Harold Li, Xiyang Dai, Lijuan Wang, Lu Yuan, Jenq-Neng Hwang, Jianfeng Gao.</font>
 <br>
 <font size=2>NeurIPS 2022</font>
 <a href='https://arxiv.org/abs/2206.05836'>[paper]</a> <a href='https://github.com/microsoft/GLIP'>[code]</a>    
