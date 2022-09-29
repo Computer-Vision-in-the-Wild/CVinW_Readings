@@ -698,7 +698,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <font size=2>Muheng Li, Lei Chen, Yueqi Duan, Zhilan Hu, Jianjiang Feng, Jie Zhou, Jiwen Lu.</font>
 <br>
 <font size=2>CVPR, 2022</font>
-<a href='https://arxiv.org/pdf/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
+<a href='https://arxiv.org/abs/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
 </p>
 
 <p>
@@ -707,7 +707,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <font size=2>Yi-Lin Sung, Jaemin Cho, Mohit Bansal.</font>
 <br>
 <font size=2>CVPR, 2022</font>
-<a href='(https://arxiv.org/pdf/2112.06825'>[paper]</a> <a href='https://github.com/ylsung/VL_adapter'>[code]</a>    
+<a href='https://arxiv.org/abs/2112.06825'>[paper]</a> <a href='https://github.com/ylsung/VL_adapter'>[code]</a>    
 </p>
   
 <p>
