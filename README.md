@@ -803,23 +803,8 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2208.07463'>[paper]</a>
 </p>
 
-<p>
-<font size=3><b>Prompt Vision Transformer for Domain Generalization.</b></font>
-<br>
-<font size=2>Zangwei Zheng, Xiangyu Yue, Kai Wang, Yang You.</font>
-<br>
-<font size=2>arXiv:2208.08914, 2022</font>
-<a href='https://arxiv.org/abs/2208.08914'>[paper]</a>
-</p>
 
-<p>
-<font size=3><b>Visual Prompting via Image Inpainting.</b></font>
-<br>
-<font size=2>Amir Bar, Yossi Gandelsman, Trevor Darrell, Amir Globerson, Alexei A. Efros.</font>
-<br>
-<font size=2>arXiv:2209.00647, 2022</font>
-<a href='https://arxiv.org/abs/2209.00647'>[paper]</a> <a href='https://yossigandelsman.github.io/visual_prompt/'>[code]</a>
-</p>
+
 
 
 ## :blue_book: Other Efficient Model Adaptation Methods
@@ -870,6 +855,25 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>CVPR, 2022</font>
 <a href='https://arxiv.org/abs/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Prompt Vision Transformer for Domain Generalization.</b></font>
+<br>
+<font size=2>Zangwei Zheng, Xiangyu Yue, Kai Wang, Yang You.</font>
+<br>
+<font size=2>arXiv:2208.08914, 2022</font>
+<a href='https://arxiv.org/abs/2208.08914'>[paper]</a>
+</p>
+
+
+<p>
+<font size=3><b>Visual Prompting via Image Inpainting.</b></font>
+<br>
+<font size=2>Amir Bar, Yossi Gandelsman, Trevor Darrell, Amir Globerson, Alexei A. Efros.</font>
+<br>
+<font size=2>arXiv:2209.00647, 2022</font>
+<a href='https://arxiv.org/abs/2209.00647'>[paper]</a> <a href='https://yossigandelsman.github.io/visual_prompt/'>[code]</a>
 </p>
 
 
