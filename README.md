@@ -674,32 +674,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2205.03340'>[paper]</a>
 </p>
 
-<p>
-<font size=3><b>DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting.</b></font>
-<br>
-<font size=2>Yongming Rao*, Wenliang Zhao*, Guangyi Chen, Yansong Tang, Zheng Zhu, Guan Huang, Jie Zhou, Jiwen Lu.</font>
-<br>
-<font size=2>CVPR, 2022</font>
-<a href='https://arxiv.org/abs/2112.01518'>[paper]</a>  <a href='https://github.com/raoyongming/DenseCLIP'>[code]</a>    
-</p>
 
-<p>
-<font size=3><b>Learning to Prompt for Continual Learning.</b></font>
-<br>
-<font size=2>Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot, Jennifer Dy, Tomas Pfister.</font>
-<br>
-<font size=2>CVPR, 2022</font>
-<a href='https://arxiv.org/abs/2112.08654'>[paper]</a> <a href='https://github.com/google-research/l2p'>[code]</a>    
-</p>
-
-<p>
-<font size=3><b>Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos.</b></font>
-<br>
-<font size=2>Muheng Li, Lei Chen, Yueqi Duan, Zhilan Hu, Jianjiang Feng, Jie Zhou, Jiwen Lu.</font>
-<br>
-<font size=2>CVPR, 2022</font>
-<a href='https://arxiv.org/abs/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
-</p>
 
 <p>
 <font size=3><b>VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks.</b></font>
@@ -878,6 +853,25 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <font size=2>arXiv:2208.05592 2022</font>
 <a href='https://arxiv.org/abs/2208.05592'>[paper]</a>
 </p>
+
+<p>
+<font size=3><b>Learning to Prompt for Continual Learning.</b></font>
+<br>
+<font size=2>Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot, Jennifer Dy, Tomas Pfister.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/abs/2112.08654'>[paper]</a> <a href='https://github.com/google-research/l2p'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos.</b></font>
+<br>
+<font size=2>Muheng Li, Lei Chen, Yueqi Duan, Zhilan Hu, Jianjiang Feng, Jie Zhou, Jiwen Lu.</font>
+<br>
+<font size=2>CVPR, 2022</font>
+<a href='https://arxiv.org/abs/2203.14104'>[paper]</a> <a href='https://github.com/ttlmh/Bridge-Prompt'>[code]</a>    
+</p>
+
 
 # :beers: Acknowledgements
 
