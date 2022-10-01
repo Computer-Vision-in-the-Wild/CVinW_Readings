@@ -820,8 +820,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=t2qu5Hotedi'>[paper]</a> 
+<a href='https://openreview.net/forum?id=t2qu5Hotedi'>[OpenReview]</a> 
 </p>
 
 <p>
@@ -829,8 +828,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=8mWlBArp1qx'>[paper]</a> 
+<a href='https://openreview.net/forum?id=8mWlBArp1qx'>[OpenReview]</a> 
 </p>
 
 <p>
@@ -838,8 +836,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=TSqKS0lQQA6'>[paper]</a> 
+<a href='https://openreview.net/forum?id=TSqKS0lQQA6'>[OpenReview]</a> 
 </p>
 
 
@@ -848,8 +845,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=zqwryBoXYnh'>[paper]</a> 
+<a href='https://openreview.net/forum?id=zqwryBoXYnh'>[OpenReview]</a> 
 </p>
 
 <p>
@@ -857,8 +853,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=1QQnYd02etI'>[paper]</a> 
+<a href='https://openreview.net/forum?id=1QQnYd02etI'>[OpenReview]</a> 
 </p>
 
 <p>
@@ -866,8 +861,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=1FsdIfRngtw'>[paper]</a> 
+<a href='https://openreview.net/forum?id=1FsdIfRngtw'>[OpenReview]</a> 
 </p>
 
 <p>
@@ -875,8 +869,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=W4HBwaybWedX'>[paper]</a> 
+<a href='https://openreview.net/forum?id=W4HBwaybWedX'>[OpenReview]</a> 
 </p>
 
 
