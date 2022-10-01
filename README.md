@@ -812,8 +812,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>Anonymous.</font>
 <br>
-<font size=2>ICLR 2023 under review</font>
-<a href='https://openreview.net/forum?id=g4JB0ksCrKe'>[paper]</a> 
+<a href='https://openreview.net/forum?id=g4JB0ksCrKe'>[OpenReview]</a> 
 </p>
 
 <p>
