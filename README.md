@@ -807,7 +807,14 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2208.07463'>[paper]</a>
 </p>
 
-
+<p>
+<font size=3><b>Contrastive Prompt Tuning Improves Generalization in Vision-Language Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=g4JB0ksCrKe'>[paper]</a> 
+</p>
 
 
 
