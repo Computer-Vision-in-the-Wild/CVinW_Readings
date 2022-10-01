@@ -282,7 +282,7 @@ $\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/3a31ae6e-a990
 <font size=2>Xiaoyi Dong, Yinglin Zheng, Jianmin Bao, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu.</font>
 <br>
 <font size=2>arXiv:2208.12262, 2021</font>
-<a href='hhttps://arxiv.org/abs/2208.12262'>[paper]</a>
+<a href='https://arxiv.org/abs/2208.12262'>[paper]</a>
 </p>
 
 <p>
