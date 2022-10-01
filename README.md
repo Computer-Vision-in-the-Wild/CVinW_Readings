@@ -816,6 +816,71 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://openreview.net/forum?id=g4JB0ksCrKe'>[paper]</a> 
 </p>
 
+<p>
+<font size=3><b>Variational Prompt Tuning Improves Generalization of Vision-Language Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=t2qu5Hotedi'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>MaPLe: Multi-modal Prompt Learning.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=8mWlBArp1qx'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>Prompt Tuning with Prompt-aligned Gradient for Vision-Language Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=TSqKS0lQQA6'>[paper]</a> 
+</p>
+
+
+<p>
+<font size=3><b>Prompt Learning with Optimal Transport for Vision-Language Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=zqwryBoXYnh'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>Unified Vision and Language Prompt Learning.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=1QQnYd02etI'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>Rethinking the Value of Prompt Learning for Vision-Language Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=1FsdIfRngtw'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>Language-Aware Soft Prompting for Vision & Language Foundation Models.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<font size=2>ICLR 2023 under review</font>
+<a href='https://openreview.net/forum?id=W4HBwaybWedX'>[paper]</a> 
+</p>
+
+
 
 
 ## :blue_book: Other Efficient Model Adaptation Methods
