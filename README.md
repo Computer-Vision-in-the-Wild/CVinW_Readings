@@ -927,9 +927,16 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 
 # :eye: Papers on Out-of-domain Generalization
 
-$\colorbox{2ec4b6}{Generalizable}$ &nbsp; $\colorbox{ffa69e}{Reliable}$ &nbsp; $\colorbox{bee1e6}{Robust}$
-
 ## :green_book: Surveys
+
+<p>
+<font size=3><b>Towards Out-Of-Distribution Generalization: A Survey.</b></font>
+<br>
+<font size=2>Zheyan Shen, Jiashuo Liu, Yue He, Xingxuan Zhang, Renzhe Xu, Han Yu, Peng Cui.</font>
+<br>
+<font size=2>arXiv:2108.13624, 2021</font>
+<a href='https://arxiv.org/abs/2108.13624'>[paper]</a>
+</p>
 
 <p>
 <font size=3><b>Generalizing to Unseen Domains: A Survey on Domain Generalization.</b></font>
@@ -979,6 +986,15 @@ $\colorbox{2ec4b6}{Generalizable}$ &nbsp; $\colorbox{ffa69e}{Reliable}$ &nbsp; $
 </p>
 
 <p>
+<font size=3><b>Improved OOD Generalization via Adversarial Training and Pre-training.</b></font>
+<br>
+<font size=2>Mingyang Yi, Lu Hou, Jiacheng Sun, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma.</font>
+<br>
+<font size=2>ICML 2021</font>
+<a href='https://arxiv.org/abs/2105.11144'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization.</b></font>
 <br>
 <font size=2>Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang.</font>
@@ -1003,6 +1019,24 @@ $\colorbox{2ec4b6}{Generalizable}$ &nbsp; $\colorbox{ffa69e}{Reliable}$ &nbsp; $
 <br>
 <font size=2>ICLR 2021</font>
 <a href='https://arxiv.org/abs/2003.00688'>[paper]</a> <a href='https://github.com/facebookresearch/DomainBed/blob/51810e60c01fbfcf8f2db918b882e4445b8b6527/domainbed/algorithms.py#L367'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Domain Invariant Representation Learning with Domain Density Transformations.</b></font>
+<br>
+<font size=2>Marco Federici, Ryota Tomioka, Patrick Forré.</font>
+<br>
+<font size=2>NeurIPS 2021</font>
+<a href='https://arxiv.org/abs/2106.03783'>[paper]</a> <a href='https://github.com/atuannguyen/DIRT'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>An Information-theoretic Approach to Distribution Shifts.</b></font>
+<br>
+<font size=2>A. Tuan Nguyen, Toan Tran, Yarin Gal, Atılım Güneş Baydin.</font>
+<br>
+<font size=2>NeurIPS 2021</font>
+<a href='https://arxiv.org/abs/2102.05082'>[paper]</a> <a href='https://github.com/mfederici/dsit'>[code]</a>
 </p>
 
 <p>
