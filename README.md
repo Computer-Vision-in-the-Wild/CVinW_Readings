@@ -821,6 +821,24 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>Multimodal Few-Shot Object Detection with Meta-Learning Based Cross-Modal Prompting.</b></font>
+<br>
+<font size=2>Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Rama Chellappa, and Shih-Fu Chang.</font>
+<br>
+<font size=2>arXiv:2204.07841 2022</font>
+<a href='https://arxiv.org/pdf/2204.07841.pdf'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Learning to Compose Soft Prompts for Compositional Zero-Shot Learning.</b></font>
+<br>
+<font size=2>Nihal V. Nayak, Peilin Yu, Stephen H. Bach.</font>
+<br>
+<font size=2>arXiv:2204.03574 2022</font>
+<a href='https://arxiv.org/abs/2204.03574'>[paper]</a> <a href='https://github.com/BatsResearch/csp'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>[WiSE-FT] Robust Fine-Tuning of Zero-Shot Models.</b></font>
 <br>
 <font size=2>Mitchell Wortsman, Gabriel Ilharco, Jong Wook Kim, Mike Li, Simon Kornblith, Rebecca Roelofs, Raphael Gontijo Lopes, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, Ludwig Schmidt.</font>
@@ -858,6 +876,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>Prompting Visual-Language Models for Efficient Video Understanding.</b></font>
+<br>
+<font size=2>Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie.</font>
+<br>
+<font size=2>ECCV, 2022</font>
+<a href='https://arxiv.org/pdf/2112.04478v2.pdf'>[paper]</a> <a href='https://github.com/hjbahng/visual_prompting'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>Prompt Vision Transformer for Domain Generalization.</b></font>
 <br>
 <font size=2>Zangwei Zheng, Xiangyu Yue, Kai Wang, Yang You.</font>
@@ -866,6 +893,14 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2208.08914'>[paper]</a>
 </p>
 
+<p>
+<font size=3><b>Domain Adaptation via Prompt Learning.</b></font>
+<br>
+<font size=2>Chunjiang Ge, Rui Huang, Mixue Xie, Zihang Lai, Shiji Song, Shuang Li, Gao Huang.</font>
+<br>
+<font size=2>arXiv:2202.06687, 2022</font>
+<a href='https://arxiv.org/abs/2202.06687'>[paper]</a>  
+</p>
 
 <p>
 <font size=3><b>Visual Prompting via Image Inpainting.</b></font>
@@ -874,6 +909,16 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>arXiv:2209.00647, 2022</font>
 <a href='https://arxiv.org/abs/2209.00647'>[paper]</a> <a href='https://yossigandelsman.github.io/visual_prompt/'>[code]</a>
+</p>
+
+
+<p>
+<font size=3><b>Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models.</b></font>
+<br>
+<font size=2>Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.</font>
+<br>
+<font size=2>arXiv:2203.17274, 2022</font>
+<a href='https://arxiv.org/abs/2203.17274'>[paper]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[code]</a>
 </p>
 
 
