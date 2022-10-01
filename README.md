@@ -20,6 +20,10 @@
 - [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
   - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
   - [Others](#blue_book-other-efficient-model-adaptation-methods)
+- [Papers on Out-of-domain Generalization](#eye-papers-on-out-of-domain-generalization)
+  - [Surveys](#green_book-surveys)
+  - [Out-of-domain Generalization](#green_book-out-of-domain-generalization)
+  - [Robust Models](#green_book-robust-models)
 - [Acknowledgements](#beers-acknowledgements)
 
 
@@ -921,6 +925,141 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2203.17274'>[paper]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[code]</a>
 </p>
 
+#:eye: Papers on Out-of-domain Generalization
+
+$\colorbox{2ec4b6}{Generalizable}$ &nbsp; $\colorbox{ffa69e}{Reliable}$ &nbsp; $\colorbox{bee1e6}{Robust}$
+
+## :green_book: Surveys
+
+<p>
+<font size=3><b>Generalizing to Unseen Domains: A Survey on Domain Generalization.</b></font>
+<br>
+<font size=2>Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.</font>
+<br>
+<font size=2>IJCAI 2021</font>
+<a href='https://arxiv.org/abs/2103.03097'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Domain Generalization: A Survey.</b></font>
+<br>
+<font size=2>Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.</font>
+<br>
+<font size=2>IJCV 2022</font>
+<a href='https://arxiv.org/abs/2103.02503'>[paper]</a>
+</p>
+
+## :green_book: Out-of-domain Generalization
+
+<p>
+<font size=3><b>Episodic Training for Domain Generalization.</b></font>
+<br>
+<font size=2>Da Li, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, Timothy M. Hospedales.</font>
+<br>
+<font size=2>ICCV 2019</font>
+<a href='https://arxiv.org/abs/1902.00113'>[paper]</a><a href='https://github.com/HAHA-DL/Episodic-DG'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Domain Generalization by Solving Jigsaw Puzzles.</b></font>
+<br>
+<font size=2>Fabio Maria Carlucci, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, Tatiana Tommasi.</font>
+<br>
+<font size=2>CVPR 2019</font>
+<a href='https://arxiv.org/abs/1903.06864'>[paper]</a><a href='https://github.com/fmcarlucci/JigenDG'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Invariant Risk Minimization.</b></font>
+<br>
+<font size=2>Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, David Lopez-Paz.</font>
+<br>
+<font size=2>arXiv:1907.02893, 2019</font>
+<a href='https://arxiv.org/abs/1907.02893'>[paper]</a> <a href='https://github.com/facebookresearch/InvariantRiskMinimization'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization.</b></font>
+<br>
+<font size=2>Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang.</font>
+<br>
+<font size=2>ICLR 2020</font>
+<a href='https://arxiv.org/abs/1911.08731'>[paper]</a> <a href='https://github.com/facebookresearch/DomainBed/blob/51810e60c01fbfcf8f2db918b882e4445b8b6527/domainbed/algorithms.py#L445'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>In Search of Lost Domain Generalization.</b></font>
+<br>
+<font size=2>Ishaan Gulrajani, David Lopez-Paz.</font>
+<br>
+<font size=2>ICLR 2021</font>
+<a href='https://arxiv.org/abs/2007.01434'>[paper]</a> <a href='https://github.com/facebookresearch/DomainBed'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Out-of-Distribution Generalization via Risk Extrapolation (REx).</b></font>
+<br>
+<font size=2>David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinghuai Zhang, Remi Le Priol, Aaron Courville.</font>
+<br>
+<font size=2>ICLR 2021</font>
+<a href='https://arxiv.org/abs/2003.00688'>[paper]</a> <a href='https://github.com/facebookresearch/DomainBed/blob/51810e60c01fbfcf8f2db918b882e4445b8b6527/domainbed/algorithms.py#L367'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Gradient Matching for Domain Generalization.</b></font>
+<br>
+<font size=2>Yuge Shi, Jeffrey Seely, Philip H.S. Torr, N. Siddharth, Awni Hannun, Nicolas Usunier, Gabriel Synnaeve.</font>
+<br>
+<font size=2>ICLR 2022</font>
+<a href='https://arxiv.org/abs/2104.09937'>[paper]</a> <a href='https://github.com/YugeTen/fish'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Visual Representation Learning Does Not Generalize Strongly Within the Same Domain.</b></font>
+<br>
+<font size=2>Lukas Schott, Julius von Kügelgen, Frederik Träuble, Peter Gehler, Chris Russell, Matthias Bethge, Bernhard Schölkopf, Francesco Locatello, Wieland Brendel.</font>
+<br>
+<font size=2>ICLR 2022</font>
+<a href='https://arxiv.org/abs/2107.08221'>[paper]</a> <a href='https://github.com/bethgelab/InDomainGeneralizationBenchmark'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization.</b></font>
+<br>
+<font size=2>Alexandre Rame, Corentin Dancette, Matthieu Cord.</font>
+<br>
+<font size=2>ICML 2022</font>
+<a href='https://arxiv.org/abs/2109.02934'>[paper]</a> <a href='https://github.com/alexrame/fishr'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>WILDS: A Benchmark of in-the-Wild Distribution Shifts.</b></font>
+<br>
+<font size=2>Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang.</font>
+<br>
+<font size=2>PMLR 2022</font>
+<a href='https://arxiv.org/abs/2012.07421'>[paper]</a> <a href='https://wilds.stanford.edu/'>[code]</a>
+</p>
+
+## :green_book: Robust Models
+
+<p>
+<font size=3><b>Evaluating Model Robustness and Stability to Dataset Shift.</b></font>
+<br>
+<font size=2>Adarsh Subbaswamy, Roy Adams, Suchi Saria.</font>
+<br>
+<font size=2>AISTATS 2021</font>
+<a href='https://arxiv.org/abs/2010.15100'>[paper]</a> <a href='https://github.com/asubbaswamy/stability-analysis'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Plex: Towards Reliability using Pretrained Large Model Extensions.</b></font>
+<br>
+<font size=2>Dustin Tran, Jeremiah Liu, Michael W. Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Karan Singhal, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, Honglin Yuan, Kelly Buchanan, Kevin Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan.</font>
+<br>
+<font size=2>First Workshop of Pre-training: Perspectives, Pitfalls, and Paths Forward at ICML 2022</font>
+<a href='https://arxiv.org/abs/2207.07411'>[paper]</a> <a href='https://goo.gle/plex-code'>[code]</a>
+</p>
 
 # :beers: Acknowledgements
 
