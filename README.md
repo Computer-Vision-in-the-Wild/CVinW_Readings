@@ -925,7 +925,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2203.17274'>[paper]</a> <a href='https://hjbahng.github.io/visual_prompting/'>[code]</a>
 </p>
 
-#:eye: Papers on Out-of-domain Generalization
+# :eye: Papers on Out-of-domain Generalization
 
 $\colorbox{2ec4b6}{Generalizable}$ &nbsp; $\colorbox{ffa69e}{Reliable}$ &nbsp; $\colorbox{bee1e6}{Robust}$
 
