@@ -1139,6 +1139,24 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2012.07421'>[paper]</a> <a href='https://wilds.stanford.edu/'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>NICO++: Towards Better Benchmarking for Domain Generalization.</b></font>
+<br>
+<font size=2>Anonymous</font>
+<br>
+<font size=2>ICLR 2023 Under Review</font>
+<a href='https://openreview.net/forum?id=q08xeIw1HA1'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Robust Generalization against Corruptions via Worst-Case Sharpness Minimization.</b></font>
+<br>
+<font size=2>Anonymous</font>
+<br>
+<font size=2>ICLR 2023 Under Review</font>
+<a href='https://openreview.net/forum?id=vPvy4x-0H52'>[paper]</a>
+</p>
+
 ## :green_book: Robust Models
 
 <p>
