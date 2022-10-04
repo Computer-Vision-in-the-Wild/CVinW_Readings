@@ -1157,6 +1157,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://openreview.net/forum?id=vPvy4x-0H52'>[paper]</a>
 </p>
 
+<p>
+<font size=3><b>Lost Domain Generalization Is a Natural Consequence of Lack of Training Domains.</b></font>
+<br>
+<font size=2>Anonymous</font>
+<br>
+<font size=2>ICLR 2023 Under Review</font>
+<a href='https://openreview.net/forum?id=9KmnrUpU2DG'>[paper]</a>
+</p>
+
 ## :green_book: Robust Models
 
 <p>
