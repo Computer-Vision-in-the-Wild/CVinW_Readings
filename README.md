@@ -994,6 +994,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 ## :green_book: Surveys
 
 <p>
+<font size=3><b>Domain Generalization: A Survey.</b></font>
+<br>
+<font size=2>Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.</font>
+<br>
+<font size=2>TPAMI 2022</font>
+<a href='https://arxiv.org/abs/2103.02503'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>Towards Out-Of-Distribution Generalization: A Survey.</b></font>
 <br>
 <font size=2>Zheyan Shen, Jiashuo Liu, Yue He, Xingxuan Zhang, Renzhe Xu, Han Yu, Peng Cui.</font>
@@ -1011,16 +1020,35 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2103.03097'>[paper]</a>
 </p>
 
-<p>
-<font size=3><b>Domain Generalization: A Survey.</b></font>
-<br>
-<font size=2>Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.</font>
-<br>
-<font size=2>IJCV 2022</font>
-<a href='https://arxiv.org/abs/2103.02503'>[paper]</a>
-</p>
 
 ## :green_book: Out-of-domain Generalization
+
+<p>
+<font size=3><b>Deep Domain-Adversarial Image Generation for Domain Generalisation.</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Yongxin Yang, Timothy Hospedales, Tao Xiang.</font>
+<br>
+<font size=2>AAAI 2020</font>
+<a href='https://arxiv.org/abs/2003.06054'>[paper]
+</p>
+
+<p>
+<font size=3><b>Learning to Generate Novel Domains for Domain Generalization.</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Yongxin Yang, Timothy Hospedales, Tao Xiang.</font>
+<br>
+<font size=2>ECCV 2020</font>
+<a href='https://arxiv.org/abs/2007.03304'>[paper]
+</p>
+
+<p>
+<font size=3><b>Domain Generalization with MixStyle.</b></font>
+<br>
+<font size=2>Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang.</font>
+<br>
+<font size=2>ICLR 2021</font>
+<a href='Domain Generalization with MixStyle'>[paper]</a><a href='https://github.com/KaiyangZhou/mixstyle-release'>[code]</a>
+</p>
 
 <p>
 <font size=3><b>Episodic Training for Domain Generalization.</b></font>
