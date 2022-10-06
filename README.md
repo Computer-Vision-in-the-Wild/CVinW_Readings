@@ -707,24 +707,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <a href='https://arxiv.org/abs/2111.03930'>[paper]</a>  <a href='https://github.com/gaopengcuhk/Tip-Adapter'>[code]</a>
 </p>
 
-<p>
-<font size=3><b>Expanding Language-Image Pretrained Models for General Video Recognition.</b></font>
-<br>
-<font size=2>Bolin Ni, Houwen Peng, Minghao Chen, Songyang Zhang, Gaofeng Meng, Jianlong Fu, Shiming Xiang, Haibin Ling.</font>
-<br>
-<font size=2>ECCV 2022</font>
-<a href='https://arxiv.org/abs/2208.02816'>[paper]</a>  <a href='https://aka.ms/X-CLIP'>[code]</a>
-</p>
 
-<p>
-<font size=3><b>ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition.</b></font>
-<br>
-<font size=2>Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.</font>
-<br>
-<font size=2>NeurIPS 2022</font>
-<a href='https://arxiv.org/abs/2206.13559'>[paper]</a> 
-</p>
-  
 
 <p>
 <font size=3><b>CLIP-Adapter: Better Vision-Language Models with Feature Adapters.</b></font>
@@ -877,7 +860,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 
 ## :blue_book: Other Efficient Model Adaptation Methods
 
-
+<p>
+<font size=3><b>ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition.</b></font>
+<br>
+<font size=2>Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.</font>
+<br>
+<font size=2>NeurIPS 2022</font>
+<a href='https://arxiv.org/abs/2206.13559'>[paper]</a> 
+</p>
+  
 
 <p>
 <font size=3><b>[DetPro] Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model.</b></font>
