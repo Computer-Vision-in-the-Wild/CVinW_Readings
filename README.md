@@ -1150,6 +1150,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>Diverse Weight Averaging for Out-of-Distribution Generalization.</b></font>
+<br>
+<font size=2>Alexandre Rame, Matthieu Kirchmeyer, Thibaud Rahier, Alain Rakotomamonjy, Patrick Gallinari, Matthieu Cord.</font>
+<br>
+<font size=2>NeurIPS 2022</font>
+<a href='https://arxiv.org/abs/2205.09739'>[paper]</a> <a href='https://github.com/alexrame/diwa'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>WILDS: A Benchmark of in-the-Wild Distribution Shifts.</b></font>
 <br>
 <font size=2>Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang.</font>
