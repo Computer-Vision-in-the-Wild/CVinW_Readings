@@ -1141,6 +1141,16 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>.</b></font>
+<br>
+<font size=2>Weixin Liang and James Zou.</font>
+<br>
+<font size=2>ICLR 2022</font>
+<a href='https://arxiv.org/abs/2202.06523'>[paper]</a> <a href='https://github.com/Weixin-Liang/MetaShift'>[code]</a>
+</p>
+
+
+<p>
 <font size=3><b>Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization.</b></font>
 <br>
 <font size=2>Alexandre Rame, Corentin Dancette, Matthieu Cord.</font>
