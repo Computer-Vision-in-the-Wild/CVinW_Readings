@@ -610,6 +610,16 @@ Language-driven Semantic Segmentation.
 <a href='https://arxiv.org/pdf/2201.03546.pdf'>[paper]</a>
 </p>
 
+<p>
+<font size=3><b>
+[OVSeg] Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP. 
+</b></font>
+<br>
+<font size=2>Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu.</font>
+<br>
+<font size=2>	arXiv:2210.04150, 2022.</font>
+<a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
+</p>
 
 
 
@@ -941,6 +951,16 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>ECCV, 2022</font>
 <a href='https://arxiv.org/pdf/2112.04478v2.pdf'>[paper]</a> <a href='https://github.com/hjbahng/visual_prompting'>[code]</a>    
+</p>
+
+
+<p>
+<font size=3><b>Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks.</b></font>
+<br>
+<font size=2>Yen-Cheng Liu, Chih-Yao Ma, Junjiao Tian, Zijian He, Zsolt Kira.</font>
+<br>
+<font size=2>NeurIPS, 2022</font>
+<a href='https://arxiv.org/abs/2210.03265'>[paper]</a> <a href='https://ycliu93.github.io/projects/polyhistor.html'>[project]</a>    
 </p>
 
 <p>
