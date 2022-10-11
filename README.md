@@ -1141,7 +1141,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
-<font size=3><b>.</b></font>
+<font size=3><b>MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts.</b></font>
 <br>
 <font size=2>Weixin Liang and James Zou.</font>
 <br>
