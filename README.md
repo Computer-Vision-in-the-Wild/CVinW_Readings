@@ -504,6 +504,24 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <a href='https://arxiv.org/abs/2209.05946'>[paper]</a> 
 </p>
 
+<p>
+<font size=3><b>F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models
+.</b></font>
+<br>
+<font size=2>Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova.</font>
+<br>
+<font size=2>arxiv:2209.15639</font>
+<a href='https://arxiv.org/abs/2209.15639'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>Learning Object-Language Alignments for Open-Vocabulary Object Detection.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<a href='https://openreview.net/forum?id=mjHlitXvReu'>[OpenReview]</a> 
+</p>
+
 
 ## :orange_book: Segmentation in the Wild
 
