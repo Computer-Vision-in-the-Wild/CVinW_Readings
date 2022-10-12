@@ -561,6 +561,17 @@ Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling.
 </p>
 
 <p>
+<font size=3><b>
+[ZegFormer] Decoupling Zero-Shot Semantic Segmentation.
+</b></font>
+<br>
+<font size=2>Jian Ding, Nan Xue, Gui-Song Xia, Dengxin Dai.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Decoupling_Zero-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf'>[paper]</a> <a href='https://github.com/dingjiansw101/ZegFormer'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>[OpenSeg] 
 Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 </b></font>
@@ -576,8 +587,8 @@ Scaling Open-Vocabulary Image Segmentation with Image-Level Labels.
 <br>
 <font size=2>Mengde Xu, Zheng Zhang, Fangyun Wei, Yutong Lin, Yue Cao, Han Hu, Xiang Bai.</font>
 <br>
-<font size=2>arXiv:2112.14757, 2021</font>
-<a href='https://arxiv.org/abs/2112.14757'>[paper]</a>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2112.14757'>[paper]</a> <a href='https://github.com/MendelXu/zsseg.baseline'>[code]</a>
 </p>
 
 <p>
@@ -607,7 +618,7 @@ Language-driven Semantic Segmentation.
 <font size=2>Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, René Ranftl.</font>
 <br>
 <font size=2>ICLR 2022.</font>
-<a href='https://arxiv.org/pdf/2201.03546.pdf'>[paper]</a>
+<a href='https://arxiv.org/pdf/2201.03546.pdf'>[paper]</a> <a href='https://github.com/isl-org/lang-seg'>[code]</a>
 </p>
 
 <p>
