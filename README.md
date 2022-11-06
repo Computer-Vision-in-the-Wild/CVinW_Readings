@@ -532,7 +532,7 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <br>
 <font size=2>Chenyun Wu, Zhe Lin, Scott Cohen, Trung Bui, Subhransu Maji.</font>
 <br>
-<font size=2>CVPR 2022.</font>
+<font size=2>CVPR 2020.</font>
 <a href='https://arxiv.org/abs/2008.01187'>[paper]</a>  <a href='https://people.cs.umass.edu/~chenyun/publication/phrasecut/'>[project]</a>     
 </p>
 
