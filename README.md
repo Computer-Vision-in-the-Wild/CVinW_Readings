@@ -523,6 +523,17 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 </p>
 
 
+## :orange_book: 3D Object Detection in the Wild
+
+<p>
+<font size=3><b>Open-Set 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning.</b></font>
+<br>
+<font size=2>Anonymous.</font>
+<br>
+<a href='https://openreview.net/forum?id=1yclzf1DWsf'>[OpenReview]</a> 
+</p>
+
+
 ## :orange_book: Segmentation in the Wild
 
 
@@ -650,6 +661,19 @@ Language-driven Semantic Segmentation.
 <a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
 </p>
 
+
+## :orange_book: 3D Segmentation in the Wild
+
+<p>
+<font size=3><b>
+Language-Grounded Indoor 3D Semantic Segmentation in the Wild. 
+</b></font>
+<br>
+<font size=2>David Rozenberszki, Or Litany, Angela Dai.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2204.07761'>[paper]</a> <a href='https://github.com/RozDavid/LanguageGroundedSemseg'>[code]</a> <a href='https://rozdavid.github.io/scannet200'>[project]</a> 
+</p>
 
 
 ## :orange_book: Video Classification in the Wild
