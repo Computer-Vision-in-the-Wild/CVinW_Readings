@@ -1242,6 +1242,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time.</b></font>
+<br>
+<font size=2>Huaxiu Yao, Caroline Choi, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn.</font>
+<br>
+<font size=2>NeurIPS 2022</font>
+<a href='https://arxiv.org/abs/2211.14238'>[paper]</a> <a href='https://github.com/huaxiuyao/Wild-Time'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>WILDS: A Benchmark of in-the-Wild Distribution Shifts.</b></font>
 <br>
 <font size=2>Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang.</font>
