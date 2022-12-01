@@ -657,7 +657,7 @@ Language-driven Semantic Segmentation.
 <br>
 <font size=2>Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu.</font>
 <br>
-<font size=2>	arXiv:2210.04150, 2022.</font>
+<font size=2>arXiv:2210.04150, 2022.</font>
 <a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
 </p>
 
@@ -675,6 +675,27 @@ Language-Grounded Indoor 3D Semantic Segmentation in the Wild.
 <a href='https://arxiv.org/abs/2204.07761'>[paper]</a> <a href='https://github.com/RozDavid/LanguageGroundedSemseg'>[code]</a> <a href='https://rozdavid.github.io/scannet200'>[project]</a> 
 </p>
 
+<p>
+<font size=3><b>
+Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models. 
+</b></font>
+<br>
+<font size=2>Huy Ha, Shuran Song.</font>
+<br>
+<font size=2>arXiv:2207.11514, 2022.</font>
+<a href='https://arxiv.org/abs/2207.11514'>[paper]</a> <a href='https://semantic-abstraction.cs.columbia.edu/'>[project]</a> 
+</p>
+
+<p>
+<font size=3><b>
+OpenScene: 3D Scene Understanding with Open Vocabularies. 
+</b></font>
+<br>
+<font size=2>Songyou Peng, Kyle Genova, Chiyu "Max" Jiang, Andrea Tagliasacchi, Marc Pollefeys, Thomas Funkhouser.</font>
+<br>
+<font size=2>arXiv:2211.15654, 2022.</font>
+<a href='https://arxiv.org/abs/2211.15654'>[paper]</a> <a href='https://pengsongyou.github.io/openscene'>[project]</a> 
+</p>
 
 ## :orange_book: Video Classification in the Wild
 
