@@ -682,7 +682,7 @@ Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language 
 <br>
 <font size=2>Huy Ha, Shuran Song.</font>
 <br>
-<font size=2>arXiv:2207.11514, 2022.</font>
+<font size=2>CoRL 2022.</font>
 <a href='https://arxiv.org/abs/2207.11514'>[paper]</a> <a href='https://semantic-abstraction.cs.columbia.edu/'>[project]</a> 
 </p>
 
