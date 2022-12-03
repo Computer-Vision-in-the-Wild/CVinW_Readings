@@ -325,7 +325,25 @@ $\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/3a31ae6e-a990
 <a href='https://arxiv.org/abs/2209.06794'>[paper]</a> 
 </p>
 
+<p>
+<font size=3><b>Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese.</b></font>
+<br>
+<font size=2>An Yang, Junshu Pan, Junyang Lin, Rui Men, Yichang Zhang, Jingren Zhou, Chang Zhou.</font>
+<br>
+<font size=2>arXiv:2211.01335, 2022.</font>
+<a href='https://arxiv.org/abs/2211.01335'>[paper]</a> 
+<a href='https://github.com/OFA-Sys/Chinese-CLIP'>[project]</a> 
+</p>
 
+
+<p>
+<font size=3><b>[FLIP] Scaling Language-Image Pre-training via Masking.</b></font>
+<br>
+<font size=2>Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, Kaiming He.</font>
+<br>
+<font size=2>arXiv:2212.00794, 2022.</font>
+<a href='https://arxiv.org/abs/2212.00794'>[paper]</a> 
+</p>
 
 
 ## :orange_book: Object Detection in the Wild
