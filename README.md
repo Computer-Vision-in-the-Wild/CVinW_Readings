@@ -533,6 +533,17 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 </p>
 
 <p>
+<font size=3><b>[OVAD] Open-vocabulary Attribute Detection
+.</b></font>
+<br>
+<font size=2>María A. Bravo, Sudhanshu Mittal, Simon Ging, Thomas Brox.</font>
+<br>
+<font size=2>arxiv:2211.12914</font>
+<a href='https://arxiv.org/abs/2211.12914'>[paper]</a> 
+<a href='https://ovad-benchmark.github.io/'>[project]</a> 
+</p>
+
+<p>
 <font size=3><b>Learning Object-Language Alignments for Open-Vocabulary Object Detection.</b></font>
 <br>
 <font size=2>Anonymous.</font>
@@ -677,6 +688,17 @@ Language-driven Semantic Segmentation.
 <br>
 <font size=2>arXiv:2210.04150, 2022.</font>
 <a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
+</p>
+
+<p>
+<font size=3><b>
+[X-Decoder] Generalized Decoding for Pixel, Image, and Language. 
+</b></font>
+<br>
+<font size=2>Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao.</font>
+<br>
+<font size=2>arXiv:2212.11270, 2022.</font>
+<a href='https://arxiv.org/abs/2212.11270'>[paper]</a> <a href='https://x-decoder-vl.github.io/'>[project]</a>  <a href='https://github.com/microsoft/X-Decoder/'>[code]</a>  <a href='https://huggingface.co/spaces/xdecoder/Demo'>[demo]</a>
 </p>
 
 
