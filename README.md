@@ -96,12 +96,20 @@ One major advantage of pre-trained models is the promise that they can transfer 
 
 ###  :loudspeaker: News
 
+* [02/2023] Organizing the 2nd Workshop @ CVPR2023 on [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/eccv-2022/), where two new challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
+  - [``*Segmentation in the Wild (SGinW)*''](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenge evaluates on 25 image segmentation tasks.
+  - [``*Roboflow 100 for Object Detection in the Wild*''](https://eval.ai/web/challenges/challenge-page/1973/overview) Challenge evaluates on 100 object detection tasks.
+
+$\qquad$ [ <img src="https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/img/head_img/cvpr-2023-logo.jpeg" width=10%/> [Workshop]](https://computer-vision-in-the-wild.github.io/eccv-2022/)    $\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/0b7a5a6d-cc4c-42d1-a155-c829ea036d51.jpg" width=10%/> [SGinW Challenge] ](https://eval.ai/web/challenges/challenge-page/1832/overview)
+$\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/678927bd-a0f9-44f6-b292-d3af66bf6e58.png" width=10%/> [RF100 Challenge] ](https://eval.ai/web/challenges/challenge-page/1839/overview)
+
+
 * [09/2022] Organizing ECCV Workshop [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/eccv-2022/), where two challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
   - [``*Image Classification in the Wild (ICinW)*''](https://eval.ai/web/challenges/challenge-page/1832/overview) Challenge evaluates on 20 image classification tasks.
   - [``*Object Detection in the Wild (ODinW)*''](https://eval.ai/web/challenges/challenge-page/1839/overview) Challenge evaluates on 35 object detection tasks.
 
-$\qquad$ [ <img src="https://computer-vision-in-the-wild.github.io/eccv-2022/static/eccv2022/img/ECCV-logo3.png" width=10%/> [Workshop]](https://computer-vision-in-the-wild.github.io/eccv-2022/)    $\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/e4619ebe-9214-489f-be51-4a9b25e76e1f.jpg" width=10%/> [IC Challenge] ](https://eval.ai/web/challenges/challenge-page/1832/overview)
-$\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/6738ee9a-6860-4116-85c4-e3db8e5d03d6.jpg" width=10%/> [OD Challenge] ](https://eval.ai/web/challenges/challenge-page/1839/overview)
+$\qquad$ [ <img src="https://computer-vision-in-the-wild.github.io/eccv-2022/static/eccv2022/img/ECCV-logo3.png" width=10%/> [Workshop]](https://computer-vision-in-the-wild.github.io/eccv-2022/)    $\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/e4619ebe-9214-489f-be51-4a9b25e76e1f.jpg" width=10%/> [ICinW Challenge] ](https://eval.ai/web/challenges/challenge-page/1832/overview)
+$\qquad$    [<img src="https://evalai.s3.amazonaws.com/media/logos/6738ee9a-6860-4116-85c4-e3db8e5d03d6.jpg" width=10%/> [ODinW Challenge] ](https://eval.ai/web/challenges/challenge-page/1839/overview)
 
 
 
