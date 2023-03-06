@@ -96,12 +96,12 @@ One major advantage of pre-trained models is the promise that they can transfer 
 
 ###  :loudspeaker: News
 
-* [02/2023] Organizing the 2nd Workshop @ CVPR2023 on [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/eccv-2022/), where two new challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
+* [02/2023] Organizing the 2nd Workshop @ CVPR2023 on [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/cvpr-2023/), where two new challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
   - [``*Segmentation in the Wild (SGinW)*''](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenge evaluates on 25 image segmentation tasks.
   - [``*Roboflow 100 for Object Detection in the Wild*''](https://eval.ai/web/challenges/challenge-page/1973/overview) Challenge evaluates on 100 object detection tasks.
 
-$\qquad$ [ <img src="images/cvpr-2023-logo.jpeg" width=10%/> [Workshop]](https://computer-vision-in-the-wild.github.io/eccv-2022/)    $\qquad$    [<img src="images/sginw.jpg" width=10%/> [SGinW Challenge] ](https://eval.ai/web/challenges/challenge-page/1832/overview)
-$\qquad$    [<img src="images/rf100.png" width=10%/> [RF100 Challenge] ](https://eval.ai/web/challenges/challenge-page/1839/overview)
+$\qquad$ [ <img src="images/cvpr-2023-logo.jpeg" width=10%/> [Workshop]](https://computer-vision-in-the-wild.github.io/cvpr-2023/)    $\qquad$    [<img src="images/sginw.jpg" width=10%/> [SGinW Challenge] ](https://eval.ai/web/challenges/challenge-page/1931/overview)
+$\qquad$    [<img src="images/rf100.png" width=10%/> [RF100 Challenge] ](https://eval.ai/web/challenges/challenge-page/1973/overview)
 
 * [09/2022] Organizing ECCV Workshop [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/eccv-2022/), where two challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
   - [``*Image Classification in the Wild (ICinW)*''](https://eval.ai/web/challenges/challenge-page/1832/overview) Challenge evaluates on 20 image classification tasks.
