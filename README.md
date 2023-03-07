@@ -723,7 +723,7 @@ Language-driven Semantic Segmentation.
 <font size=2>Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu.</font>
 <br>
 <font size=2>CVPR 2023.</font>
-<a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
+<a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a> <a href='https://huggingface.co/spaces/facebook/ov-seg'>[demo]</a>
 </p>
 
 <p>
