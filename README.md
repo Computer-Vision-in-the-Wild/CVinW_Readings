@@ -352,6 +352,34 @@ $\qquad$    [<img src="images/odinw.jpg" width=10%/> [ODinW Challenge] ](https:/
 <a href='https://arxiv.org/abs/2212.00794'>[paper]</a> 
 </p>
 
+<p>
+<font size=3><b>Self Supervision Does Not Help Natural Language Supervision at Scale.</b></font>
+<br>
+<font size=2>Floris Weers, Vaishaal Shankar, Angelos Katharopoulos, Yinfei Yang, Tom Gunter.</font>
+<br>
+<font size=2>arXiv:2301.07836, 2023.</font>
+<a href='https://arxiv.org/abs/2301.07836'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>STAIR: Learning Sparse Text and Image Representation in Grounded Tokens.</b></font>
+<br>
+<font size=2>Chen Chen, Bowen Zhang, Liangliang Cao, Jiguang Shen, Tom Gunter, Albin Madappally Jose, Alexander Toshev, Jonathon Shlens, Ruoming Pang, Yinfei Yang.</font>
+<br>
+<font size=2>arXiv:2301.13081, 2023.</font>
+<a href='https://arxiv.org/abs/2301.13081'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>[REACT] Learning Customized Visual Models with Retrieval-Augmented Knowledge.</b></font>
+<br>
+<font size=2>Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li.</font>
+<br>
+<font size=2>CVPR, 2023.</font>
+<a href='https://arxiv.org/abs/2301.07094'>[paper]</a> <a href='https://react-vl.github.io/'>[project]</a> <a href='https://github.com/microsoft/react'>[code]</a> 
+</p>
+
+
 
 ## :orange_book: Object Detection in the Wild
 
