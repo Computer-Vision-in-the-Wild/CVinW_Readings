@@ -563,8 +563,9 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <br>
 <font size=2>Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova.</font>
 <br>
-<font size=2>arxiv:2209.15639</font>
-<a href='https://arxiv.org/abs/2209.15639'>[paper]</a> 
+<font size=2>ICLR 2023.</font>
+<a href='https://arxiv.org/abs/2209.15639'>[paper]</a>  
+<a href='https://sites.google.com/view/f-vlm/home'>[project]</a> 
 </p>
 
 <p>
@@ -581,11 +582,11 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <p>
 <font size=3><b>Learning Object-Language Alignments for Open-Vocabulary Object Detection.</b></font>
 <br>
-<font size=2>Anonymous.</font>
+<font size=2>Chuang Lin, Peize Sun, Yi Jiang, Ping Luo, Lizhen Qu, Gholamreza Haffari, Zehuan Yuan, Jianfei Cai</font>
 <br>
-<a href='https://openreview.net/forum?id=mjHlitXvReu'>[OpenReview]</a> 
+<font size=2>ICLR 2023.</font>
+<a href='https://openreview.net/forum?id=mjHlitXvReu'>[paper]</a>  <a href='https://github.com/clin1223/VLDet'>[code]</a>     
 </p>
-
 
 ## :orange_book: 3D Object Detection in the Wild
 
