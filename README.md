@@ -721,7 +721,7 @@ Language-driven Semantic Segmentation.
 <br>
 <font size=2>Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu.</font>
 <br>
-<font size=2>arXiv:2210.04150, 2022.</font>
+<font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/abs/2210.04150'>[paper]</a> <a href='https://jeff-liangf.github.io/projects/ovseg/'>[project]</a>
 </p>
 
@@ -736,6 +736,16 @@ Language-driven Semantic Segmentation.
 <a href='https://arxiv.org/abs/2212.11270'>[paper]</a> <a href='https://x-decoder-vl.github.io/'>[project]</a>  <a href='https://github.com/microsoft/X-Decoder/'>[code]</a>  <a href='https://huggingface.co/spaces/xdecoder/Demo'>[demo]</a>
 </p>
 
+<p>
+<font size=3><b>
+[SAN] Side Adapter Network for Open-Vocabulary Semantic Segmentation. 
+</b></font>
+<br>
+<font size=2>Mengde Xu, Zheng Zhang, Fangyun Wei, Han Hu, Xiang Bai.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/abs/2302.12242'>[paper]</a> <a href='https://github.com/MendelXu/SAN'>[code]</a>
+</p>
 
 ## :orange_book: 3D Segmentation in the Wild
 
@@ -768,8 +778,19 @@ OpenScene: 3D Scene Understanding with Open Vocabularies.
 <br>
 <font size=2>Songyou Peng, Kyle Genova, Chiyu "Max" Jiang, Andrea Tagliasacchi, Marc Pollefeys, Thomas Funkhouser.</font>
 <br>
-<font size=2>arXiv:2211.15654, 2022.</font>
+<font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/abs/2211.15654'>[paper]</a> <a href='https://pengsongyou.github.io/openscene'>[project]</a> 
+</p>
+
+<p>
+<font size=3><b>
+Language-driven Open-Vocabulary 3D Scene Understanding
+</b></font>
+<br>
+<font size=2>Runyu Ding, Jihan Yang, Chuhui Xue, Wenqing Zhang, Song Bai, Xiaojuan Qi.</font>
+<br>
+<font size=2>arXiv:2211.16312 , 2022.</font>
+<a href='https://arxiv.org/abs/2211.16312'>[paper]</a> <a href='https://github.com/CVMI-Lab/PLA'>[code]</a> 
 </p>
 
 ## :orange_book: Video Classification in the Wild
