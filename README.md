@@ -733,7 +733,7 @@ Language-driven Semantic Segmentation.
 <br>
 <font size=2>Xueyan Zou*, Zi-Yi Dou*, Jianwei Yang*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee^, Jianfeng Gao^.</font>
 <br>
-<font size=2>arXiv:2212.11270, 2022.</font>
+<font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/abs/2212.11270'>[paper]</a> <a href='https://x-decoder-vl.github.io/'>[project]</a>  <a href='https://github.com/microsoft/X-Decoder/'>[code]</a>  <a href='https://huggingface.co/spaces/xdecoder/Demo'>[demo]</a>
 </p>
 
