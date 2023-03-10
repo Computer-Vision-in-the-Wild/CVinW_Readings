@@ -16,6 +16,7 @@
   - [Object Detection in the Wild](#orange_book-object-detection-in-the-wild)
   - [Segmentation in the Wild](#orange_book-segmentation-in-the-wild)
   - [Video Classification in the Wild](#orange_book-video-classification-in-the-wild)
+  - [Grounded Image Generation in the Wild](#orange_book-grounded-image-generation-in-the-wild)  
   - [Others](#orange_book-other-visual-recognition-in-the-wild)
 - [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
   - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
@@ -814,7 +815,6 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <a href='https://arxiv.org/abs/2207.07646v1'>[paper]</a>
 </p>
 
-
 ## :orange_book: Other Visual Recognition in the Wild
 
 <p>
@@ -825,6 +825,58 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <font size=2>NeurIPS 2022</font>
 <a href='https://arxiv.org/abs/2209.01814'>[paper]</a> <a href='https://github.com/JacobYuan7/RLIP'>[code]</a>    
 </p>
+
+## :orange_book: Grounded Image Generation in the Wild
+:new: This is a new research topic: grounded image generation based on any open-set concept, include text and visual prompt. All the text-to-image pre-trained generation models allow open-set prompting at the image-level, and thus belong to ``Grounded Image Generation in the Wild'' by default. This paper collection focuses on more fine-grained controlability in the image generation, such as specifying new concept at the the level of bounding box, masks, edge/depth maps etc.
+
+<p>
+<font size=3><b>GLIGEN: Open-Set Grounded Text-to-Image Generation.</b></font>
+<br>
+<font size=2>Yuheng Li, Haotian Liu, Qingyang Wu, Fangzhou Mu, Jianwei Yang, Jianfeng Gao, Chunyuan Li, Yong Jae Lee.</font>
+<br>
+<font size=2>CVPR 2023</font>
+<a href='https://arxiv.org/abs/2301.07093'>[paper]</a> <a href='https://gligen.github.io/'>[project]</a> <a href='https://github.com/gligen/GLIGEN'>[code]</a> <a href='https://aka.ms/gligen'>[demo]</a> <a href='https://youtu.be/-MCkU7IAGKs'>[YouTube video]</a>
+</p>
+
+<p>
+<font size=3><b>ReCo: Region-Controlled Text-to-Image Generation.</b></font>
+<br>
+<font size=2>Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.</font>
+<br>
+<font size=2>CVPR 2023</font>
+<a href='https://arxiv.org/pdf/2211.15518.pdf'>[paper]</a> 
+</p>
+
+
+<p>
+<font size=3><b>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models.</b></font>
+<br>
+<font size=2>Lvmin Zhang, Maneesh Agrawala.</font>
+<br>
+<font size=2>arxiv 2302.05543, 2023</font>
+<a href='https://arxiv.org/abs/2302.05543'>[paper]</a> <a href='https://github.com/lllyasviel/ControlNet'>[code]</a> 
+</p>
+
+
+<p>
+<font size=3><b>Composer: Creative and Controllable Image Synthesis with Composable Conditions.</b></font>
+<br>
+<font size=2>Lianghua Huang, Di Chen, Yu Liu, Yujun Shen, Deli Zhao, Jingren Zhou.</font>
+<br>
+<font size=2>arxiv 2302.09778 2023</font>
+<a href='https://arxiv.org/abs/2302.09778'>[paper]</a> <a href='https://damo-vilab.github.io/composer-page/'>[project]</a>  <a href='https://github.com/damo-vilab/composer'>[code]</a> 
+</p>
+
+
+<p>
+<font size=3><b>Universal Guidance for Diffusion Models.</b></font>
+<br>
+<font size=2>Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Soumyadip Sengupta, Micah Goldblum, Jonas Geiping, Tom Goldstein.</font>
+<br>
+<font size=2>arxiv2302.07121, 2023</font>
+<a href='https://arxiv.org/abs/2302.07121'>[paper]</a> <a href='https://github.com/arpitbansal297/Universal-Guided-Diffusion'>[code]</a> 
+</p>
+
 
 # :snowflake: Papers on Efficient Model Adaptation
 
