@@ -857,6 +857,15 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <a href='https://arxiv.org/abs/2302.05543'>[paper]</a> <a href='https://github.com/lllyasviel/ControlNet'>[code]</a> 
 </p>
 
+<p>
+<font size=3><b>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models.</b></font>
+<br>
+<font size=2>Chong Mou, Xintao Wang, Liangbin Xie, Jian Zhang, Zhongang Qi, Ying Shan, Xiaohu Qie.</font>
+<br>
+<font size=2>arxiv 2302.08453, 2023</font>
+<a href='https://arxiv.org/abs/2302.08453'>[paper]</a> <a href='https://github.com/TencentARC/T2I-Adapter'>[code]</a> 
+</p>
+
 
 <p>
 <font size=3><b>Composer: Creative and Controllable Image Synthesis with Composable Conditions.</b></font>
