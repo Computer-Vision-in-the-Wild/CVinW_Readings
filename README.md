@@ -718,6 +718,17 @@ Language-driven Semantic Segmentation.
 
 <p>
 <font size=3><b>
+[SAN] Perceptual Grouping in Vision-Language Models. 
+</b></font>
+<br>
+<font size=2>Kanchana Ranasinghe, Brandon McKinzie, Sachin Ravi, Yinfei Yang, Alexander Toshev, Jonathon Shlens.</font>
+<br>
+<font size=2>arXiv 2210.09996, 2022.</font>
+<a href='https://arxiv.org/abs/2210.09996'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>
 [OVSeg] Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP. 
 </b></font>
 <br>
@@ -759,6 +770,8 @@ Language-driven Semantic Segmentation.
 <font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/abs/2303.04803'>[paper]</a> <a href='https://jerryxu.net/ODISE/'>[project]</a> <a href='https://github.com/NVlabs/ODISE'>[code]</a> <a href='https://huggingface.co/spaces/xvjiarui/ODISE'>[demo]</a>
 </p>
+
+
 
 
 
