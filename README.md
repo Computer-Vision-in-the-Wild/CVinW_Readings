@@ -749,6 +749,19 @@ Language-driven Semantic Segmentation.
 <a href='https://arxiv.org/abs/2302.12242'>[paper]</a> <a href='https://github.com/MendelXu/SAN'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>
+[ODISE] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models.
+</b></font>
+<br>
+<font size=2>Jiarui Xu, Sifei Liu, Arash Vahdat, Wonmin Byeon, Xiaolong Wang, Shalini De Mello.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/abs/2303.04803'>[paper]</a> <a href='https://jerryxu.net/ODISE/'>[project]</a> <a href='https://github.com/NVlabs/ODISE'>[code]</a> <a href='https://huggingface.co/spaces/xvjiarui/ODISE'>[demo]</a>
+</p>
+
+
+
 ## :orange_book: 3D Segmentation in the Wild
 
 <p>
