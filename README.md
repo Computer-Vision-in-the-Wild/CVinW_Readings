@@ -718,7 +718,7 @@ Language-driven Semantic Segmentation.
 
 <p>
 <font size=3><b>
-[SAN] Perceptual Grouping in Vision-Language Models. 
+Perceptual Grouping in Vision-Language Models. 
 </b></font>
 <br>
 <font size=2>Kanchana Ranasinghe, Brandon McKinzie, Sachin Ravi, Yinfei Yang, Alexander Toshev, Jonathon Shlens.</font>
