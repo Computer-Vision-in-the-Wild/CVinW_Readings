@@ -772,6 +772,17 @@ Perceptual Grouping in Vision-Language Models.
 </p>
 
 
+<p>
+<font size=3><b>
+[OpenSeeD] A Simple Framework for Open-Vocabulary Segmentation and Detection.
+</b></font>
+<br>
+<font size=2>Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.</font>
+<br>
+<font size=2>arxiv 2303.08131, 2023.</font>
+<a href='https://arxiv.org/abs/2303.08131'>[paper]</a> <a href='https://github.com/IDEA-Research/OpenSeeD'>[code]</a>
+</p>
+
 
 
 
