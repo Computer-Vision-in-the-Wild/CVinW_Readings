@@ -929,7 +929,7 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <br>
 <font size=2>Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz.</font>
 <br>
-<font size=2>arxiv2302.07121, 2023</font>
+<font size=2>arxiv2302.12764, 2023</font>
 <a href='https://arxiv.org/abs/2302.12764'>[paper]</a>
 </p>
 
