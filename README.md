@@ -924,6 +924,16 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 </p>
 
 
+<p>
+<font size=3><b>Modulating Pretrained Diffusion Models for Multimodal Image Synthesis.</b></font>
+<br>
+<font size=2>Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz.</font>
+<br>
+<font size=2>arxiv2302.07121, 2023</font>
+<a href='https://arxiv.org/abs/2302.12764'>[paper]</a>
+</p>
+
+
 # :snowflake: Papers on Efficient Model Adaptation
 
 ## :blue_book: Parameter-Efficient Methods 
