@@ -83,7 +83,7 @@ One major advantage of pre-trained models is the promise that they can transfer 
 </tr>
 </table>
 
- 
+
 ###  :cinema: Benchmarks
 
 <p>
@@ -977,7 +977,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <font size=2>CVPR, 2022</font>
 <a href='https://arxiv.org/abs/2112.06825'>[paper]</a> <a href='https://github.com/ylsung/VL_adapter'>[code]</a>    
 </p>
-  
+
 <p>
 <font size=3><b>[VPT] Visual Prompt Tuning.</b></font>
 <br>
@@ -1491,7 +1491,7 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <font size=2>Ziyue Li, Kan Ren, Xinyang Jiang, Yifei Shen, Haipeng Zhang, Dongsheng Li</font>
 <br>
 <font size=2>ICLR 2023</font>
-<a href='https://openreview.net/forum?id=BqrPeZ_e5P'>[paper]</a> <a href='vhttps://seqml.github.io/simple/'>[code]</a>
+<a href='https://openreview.net/forum?id=BqrPeZ_e5P'>[paper]</a> <a href='https://seqml.github.io/simple/'>[code]</a>
 </p>
 
 <p>
