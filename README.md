@@ -589,6 +589,15 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <a href='https://openreview.net/forum?id=mjHlitXvReu'>[paper]</a>  <a href='https://github.com/clin1223/VLDet'>[code]</a>     
 </p>
 
+<p>
+<font size=3><b>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection</b></font>
+<br>
+<font size=2>Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang </font>
+<br>
+<font size=2>Arxiv 2023.</font>
+<a href='https://arxiv.org/abs/2303.05499v4'>[paper]</a>  <a href='https://github.com/IDEA-Research/GroundingDINO'>[code]</a>     
+</p>
+
 ## :orange_book: 3D Object Detection in the Wild
 
 <p>
