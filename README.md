@@ -5,27 +5,31 @@
 
 # Table of Contents
 
-- [What is Computer Vision in the Wild (CVinW)?](#what-is-computer-vision-in-the-wild)
-  - [Goals of CVinW](#star-goals-of-cvinw)
-  - [Task Transfer Scenarios are Broad](#one-task-transfer-scenarios-are-broad) 
-  - [Task Transfer Cost is Low](#two-task-transfer-cost-is-low )
-  - [Benchmarks](#cinema-benchmarks)
-  - [News](#loudspeaker-news)
-- [Papers on Task-level Transfer with Pre-trained Models](#fire-papers-on-task-level-transfer-with-pre-trained-models)
-  - [Image Classification in the Wild](#orange_book-image-classification-in-the-wild)
-  - [Object Detection in the Wild](#orange_book-object-detection-in-the-wild)
-  - [Segmentation in the Wild](#orange_book-segmentation-in-the-wild)
-  - [Video Classification in the Wild](#orange_book-video-classification-in-the-wild)
-  - [Grounded Image Generation in the Wild](#orange_book-grounded-image-generation-in-the-wild)  
-  - [Others](#orange_book-other-visual-recognition-in-the-wild)
-- [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
-  - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
-  - [Others](#blue_book-other-efficient-model-adaptation-methods)
-- [Papers on Out-of-domain Generalization](#eye-papers-on-out-of-domain-generalization)
-  - [Surveys](#green_book-surveys)
-  - [Out-of-domain Generalization](#green_book-out-of-domain-generalization)
-  - [Robust Models](#green_book-robust-models)
-- [Acknowledgements](#beers-acknowledgements)
+- [CVinW Readings ](#cvinw-readings-)
+- [Table of Contents](#table-of-contents)
+- [What is Computer Vision in the Wild?](#what-is-computer-vision-in-the-wild)
+    - [:star: Goals of CVinW](#star-goals-of-cvinw)
+    - [:one: Task Transfer Scenarios are Broad](#one-task-transfer-scenarios-are-broad)
+    - [:two: Task Transfer Cost is Low](#two-task-transfer-cost-is-low)
+    - [:cinema: Benchmarks](#cinema-benchmarks)
+    - [:loudspeaker: News](#loudspeaker-news)
+- [:fire: Papers on Task-level Transfer with Pre-trained Models](#fire-papers-on-task-level-transfer-with-pre-trained-models)
+  - [:orange\_book: Image Classification in the Wild](#orange_book-image-classification-in-the-wild)
+  - [:orange\_book: Object Detection in the Wild](#orange_book-object-detection-in-the-wild)
+  - [:orange\_book: 3D Object Detection in the Wild](#orange_book-3d-object-detection-in-the-wild)
+  - [:orange\_book: Segmentation in the Wild](#orange_book-segmentation-in-the-wild)
+  - [:orange\_book: 3D Segmentation in the Wild](#orange_book-3d-segmentation-in-the-wild)
+  - [:orange\_book: Video Classification in the Wild](#orange_book-video-classification-in-the-wild)
+  - [:orange\_book: Other Visual Recognition in the Wild](#orange_book-other-visual-recognition-in-the-wild)
+  - [:orange\_book: Grounded Image Generation in the Wild](#orange_book-grounded-image-generation-in-the-wild)
+- [:snowflake: Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)
+  - [:blue\_book: Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
+  - [:blue\_book: Other Efficient Model Adaptation Methods](#blue_book-other-efficient-model-adaptation-methods)
+- [:eye: Papers on Out-of-domain Generalization](#eye-papers-on-out-of-domain-generalization)
+  - [:green\_book: Surveys](#green_book-surveys)
+  - [:green\_book: Out-of-domain Generalization](#green_book-out-of-domain-generalization)
+  - [:green\_book: Robust Models](#green_book-robust-models)
+- [:beers: Acknowledgements](#beers-acknowledgements)
 
 
 # What is Computer Vision in the Wild?
@@ -587,6 +591,15 @@ Open-vocabulary Object Detection via Vision and Language Knowledge Distillation.
 <br>
 <font size=2>ICLR 2023.</font>
 <a href='https://openreview.net/forum?id=mjHlitXvReu'>[paper]</a>  <a href='https://github.com/clin1223/VLDet'>[code]</a>     
+</p>
+
+<p>
+<font size=3><b>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection</b></font>
+<br>
+<font size=2>Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang </font>
+<br>
+<font size=2>Arxiv 2023.</font>
+<a href='https://arxiv.org/abs/2303.05499v4'>[paper]</a>  <a href='https://github.com/IDEA-Research/GroundingDINO'>[code]</a>     
 </p>
 
 ## :orange_book: 3D Object Detection in the Wild
