@@ -793,6 +793,31 @@ Perceptual Grouping in Vision-Language Models.
 </p>
 
 
+<p>
+<font size=3><b>
+[SAM] Segment Anything.
+</b></font>
+<br>
+<font size=2>Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick.</font>
+<br>
+<font size=2>2023.</font>
+<a href='https://ai.facebook.com/research/publications/segment-anything/'>[paper]</a> 
+<a href='https://github.com/facebookresearch/segment-anything'>[code]</a>
+<a href='https://segment-anything.com/'>[project]</a>
+<a href='https://segment-anything.com/demo/'>[demo]</a>
+</p>
+
+<p>
+<font size=3><b>
+[SEEM] Segment Everything Everywhere All at Once.
+</b></font>
+<br>
+<font size=2>Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.</font>
+<br>
+<font size=2>arxiv 2303.06718, 2023.</font>
+<a href='https://arxiv.org/abs/2304.06718'>[paper]</a> <a href='https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once'>[code]</a>
+</p>
+
 
 
 ## :orange_book: 3D Segmentation in the Wild
