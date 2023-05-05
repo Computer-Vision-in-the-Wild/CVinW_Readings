@@ -738,6 +738,17 @@ Perceptual Grouping in Vision-Language Models.
 
 <p>
 <font size=3><b>
+[TCL] Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs.
+</b></font>
+<br>
+<font size=2>Junbum Cha, Jonghwan Mun, Byungseok Rho.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/abs/2212.00785'>[paper]</a> <a href='https://github.com/kakaobrain/tcl'>[code]</a> <a href='https://huggingface.co/spaces/khanrc/tcl'>[demo]</a>
+</p>
+
+<p>
+<font size=3><b>
 [OVSeg] Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP. 
 </b></font>
 <br>
@@ -779,7 +790,6 @@ Perceptual Grouping in Vision-Language Models.
 <font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/abs/2303.04803'>[paper]</a> <a href='https://jerryxu.net/ODISE/'>[project]</a> <a href='https://github.com/NVlabs/ODISE'>[code]</a> <a href='https://huggingface.co/spaces/xvjiarui/ODISE'>[demo]</a>
 </p>
-
 
 <p>
 <font size=3><b>
@@ -1438,6 +1448,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>SWAD: Domain Generalization by Seeking Flat Minima.</b></font>
+<br>
+<font size=2>Junbum Cha, Sanghyuk Chun, Kyungjae Lee, Han-Cheol Cho, Seunghyun Park, Yunsung Lee, Sungrae Park.</font>
+<br>
+<font size=2>NeurIPS 2021</font>
+<a href='https://arxiv.org/abs/2102.08604'>[paper]</a> <a href='https://github.com/khanrc/swad'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>Domain Invariant Representation Learning with Domain Density Transformations.</b></font>
 <br>
 <font size=2>Marco Federici, Ryota Tomioka, Patrick Forré.</font>
@@ -1490,6 +1509,15 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 <br>
 <font size=2>ICML 2022</font>
 <a href='https://arxiv.org/abs/2109.02934'>[paper]</a> <a href='https://github.com/alexrame/fishr'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>[MIRO] Domain Generalization by Mutual-Information Regularization with Pre-trained Models.</b></font>
+<br>
+<font size=2>Junbum Cha, Kyungjae Lee, Sungrae Park, Sanghyuk Chun.</font>
+<br>
+<font size=2>ECCV 2022</font>
+<a href='https://arxiv.org/abs/2203.10789'>[paper]</a> <a href='https://github.com/kakaobrain/miro'>[code]</a>
 </p>
 
 <p>
