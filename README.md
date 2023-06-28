@@ -16,7 +16,8 @@
   - [Object Detection in the Wild](#orange_book-object-detection-in-the-wild)
   - [Segmentation in the Wild](#orange_book-segmentation-in-the-wild)
   - [Video Classification in the Wild](#orange_book-video-classification-in-the-wild)
-  - [Grounded Image Generation in the Wild](#orange_book-grounded-image-generation-in-the-wild)  
+  - [Grounded Image Generation in the Wild](#orange_book-grounded-image-generation-in-the-wild)
+  - [Large Multimodal Models](#orange_book-large-multimodal-models) 
   - [Others](#orange_book-other-visual-recognition-in-the-wild)
 - [Papers on Efficient Model Adaptation](#snowflake-papers-on-efficient-model-adaptation)  
   - [Parameter-Efficient Methods](#blue_book-parameter-efficient-methods)
@@ -976,6 +977,56 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <font size=2>arxiv2302.12764, 2023</font>
 <a href='https://arxiv.org/abs/2302.12764'>[paper]</a>
 </p>
+
+## :orange_book: Large Multimodal Models
+:new: This is a new research topic: build general-purpose multimodal assistants based on large language models (LLM). One prominent example is OpenAI Multimodal GPT-4. A comphrensive list paper list is compiled at [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models). Our collection maintains the a brief list for the completenes of CVinW.
+
+
+<p>
+<font size=3><b>GPT-4 Technical Report.</b></font>
+<br>
+<font size=2>OpenAI</font>
+<br>
+<font size=2>arxiv2303.08774, 2023</font>
+<a href='https://arxiv.org/abs/2303.08774'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>Visual Instruction Tuning.</b></font>
+<br>
+<font size=2>Haotian Liu*, Chunyuan Li*, Qingyang Wu, Yong Jae Lee</font>
+<br>
+<font size=2>arxiv/2304.08485, 2023</font>
+<a href='https://arxiv.org/abs/2304.08485'>[paper]</a>
+<a href='https://llava-vl.github.io/'>[website]</a>
+</p>
+
+<p>
+<font size=3><b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b></font>
+<br>
+<font size=2>Deyao Zhu* , Jun Chen*, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny</font>
+<br>
+<font size=2>arxiv2304.10592, 2023</font>
+<a href='https://arxiv.org/abs/2304.10592'>[paper]</a>
+<a href='https://minigpt-4.github.io/'>[website]</a>
+</p>
+
+<p>
+<font size=3><b>Large Multimodal Models: Notes on CVPR 2023 Tutorial.</b></font>
+<br>
+<font size=2>Chunyuan Li.</font>
+<br>
+<font size=2>CVPR Tutorial, 2023</font>
+<br>  
+<a href='https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Chunyuan_cvpr2023_tutorial_lmm.pdf'>[📊 Slides]</a>
+<a href='https://arxiv.org/abs/2306.14895'>[📝 Notes]</a>
+<a href='https://youtu.be/mkI7EPD1vp8'>[🎥 YouTube]</a>
+<a href='https://www.bilibili.com/video/BV1Ng4y1T7v3/'>[🇨🇳 Bilibli]</a>
+<a href='https://vlp-tutorial.github.io/'>[🌐 Tutorial Webiste]</a>
+</p>
+
+
+
 
 
 # :snowflake: Papers on Efficient Model Adaptation
