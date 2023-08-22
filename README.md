@@ -1175,6 +1175,16 @@ $\colorbox{powderblue}{Prompt}$ &nbsp; $\colorbox{tomato}{Adapter}$
 </p>
 
 <p>
+<font size=3><b>VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control.</b></font>
+<br>
+<font size=2>Zi-Yuan Hu, Yanyang Li, Michael R. Lyu, Liwei Wang.</font>
+<br>
+<font size=2>ICCV, 2023</font>
+<a href='https://arxiv.org/abs/2308.09804'>[paper]</a> <a href='https://github.com/HenryHZY/VL-PET'>[code]</a> <a href='https://henryhzy.github.io/VL-PET'>[project]</a>
+</p>
+
+
+<p>
 <font size=3><b>Contrastive Prompt Tuning Improves Generalization in Vision-Language Models.</b></font>
 <br>
 <font size=2>Anonymous.</font>
