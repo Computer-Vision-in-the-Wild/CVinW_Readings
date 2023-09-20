@@ -98,6 +98,10 @@ One major advantage of pre-trained models is the promise that they can transfer 
 
 ###  :loudspeaker: News
 
+* [09/2023] 🔥 Discover the fascinating journey of "[Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/abs/2309.10020)" 🌐 Dive into the evolution of large models in #ComputerVision & #VisionLanguage! This is based on our [CVPR 2023 Tutorial](https://vlp-tutorial.github.io/2023/), where you could find videos and slides of the core chapters. For its preceding paper, please check out [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)
+
+<img src="images/mfm_evolution.jpeg" width=60%/>
+
 * [02/2023] Organizing the 2nd Workshop @ CVPR2023 on [*Computer Vision in the Wild (CVinW)*](https://computer-vision-in-the-wild.github.io/cvpr-2023/), where two new challenges are hosted to evaluate the zero-shot, few-shot and full-shot performance of pre-trained vision models in downstream tasks:
   - [``*Segmentation in the Wild (SGinW)*''](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenge evaluates on 25 image segmentation tasks.
   - [``*Roboflow 100 for Object Detection in the Wild*''](https://eval.ai/web/challenges/challenge-page/1973/overview) Challenge evaluates on 100 object detection tasks.
@@ -1653,7 +1657,7 @@ We thank all the authors above for their great works! Related Reading List
 - [[Awesome Detection Transformer]](https://github.com/IDEACVR/awesome-detection-transformer) 
 - [[Awesome Prompting Papers in Computer Vision]](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision)
 
-If you find this repository useful, please consider giving a star :star:   and citation :beer::
+If you find this repository useful, please consider giving a star :star:   and cite the related papers :beer::
 
 ```
 @article{li2022elevater,
@@ -1661,6 +1665,24 @@ If you find this repository useful, please consider giving a star :star:   and c
     author={Li, Chunyuan and Liu, Haotian and Li, Liunian Harold and Zhang, Pengchuan and Aneja, Jyoti and Yang, Jianwei and Jin, Ping and Hu, Houdong and Liu, Zicheng and Lee, Yong Jae and Gao, Jianfeng},
     journal={Neural Information Processing Systems},
     year={2022}
+}
+
+@article{li2023multimodal,
+    title={Multimodal Foundation Models: From Specialists to General-Purpose Assistants},
+    author={Li, Chunyuan and Gan, Zhe and Yang, Zhengyuan and Yang, Jianwei and Li, Linjie and Wang, Lijuan and Gao, Jianfeng},
+    journal={arXiv:2309.10020},
+    year={2023}
+}
+
+@article{gan2022vision,
+  title={Vision-language pre-training: Basics, recent advances, and future trends},
+  author={Gan, Zhe and Li, Linjie and Li, Chunyuan and Wang, Lijuan and Liu, Zicheng and Gao, Jianfeng},
+  journal={Foundations and Trends{\textregistered} in Computer Graphics and Vision},
+  volume={14},
+  number={3--4},
+  pages={163--352},
+  year={2022},
+  publisher={Now Publishers, Inc.}
 }
 ```
 
