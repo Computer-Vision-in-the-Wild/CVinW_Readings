@@ -118,7 +118,7 @@ $\qquad$    [<img src="images/odinw.jpg" width=10%/> [ODinW Challenge] ](https:/
 
 
 
-# :fire: Papers on Task-level Transfer with Pre-trained Models
+## :fire: Papers on Task-level Transfer with Pre-trained Models
 
 ## :orange_book: Image Classification in the Wild
 
