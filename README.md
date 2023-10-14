@@ -881,6 +881,19 @@ Language-driven Open-Vocabulary 3D Scene Understanding
 <a href='https://arxiv.org/abs/2211.16312'>[paper]</a> <a href='https://github.com/CVMI-Lab/PLA'>[code]</a> 
 </p>
 
+
+**CLIP2Scene: Towards Label-Efficient 3D Scene Understanding by CLIP**
+Runnan Chen, Youquan Liu, Lingdong Kong, Xinge Zhu, Yuexin Ma, Yikang Li, Yuenan Hou, Yu Qiao, Wenping Wang
+CVPR 2023. [[paper](https://arxiv.org/abs/2301.04926)] [[code](https://github.com/runnanchen/CLIP2Scene)]
+
+ **Towards Label-Free Scene Understanding by Vision Foundation Models**
+Runnan Chen, Youquan Liu, Lingdong Kong, Nenglun Chen, Xinge Zhu, Yuexin Ma, Tongliang Liu, Wenping Wang
+NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.03899)] [[code](https://github.com/runnanchen/Label-Free-Scene-Understanding)]
+
+**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**
+Youquan Liu, Lingdong Kong, Jun Cen, Runnan Chen, Wenwei Zhang, Liang Pan, Kai Chen, Ziwei Liu
+NeurIPS 2023 (Spotlight). [[paper](https://arxiv.org/abs/2306.09347)] [[code](https://github.com/youquanl/Segment-Any-Point-Cloud)] [[project](https://ldkong.com/Seal)] 
+
 ## :orange_book: Video Classification in the Wild
 
 <p>
