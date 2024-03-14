@@ -1043,7 +1043,14 @@ NeurIPS 2023 (Spotlight). [[paper](https://arxiv.org/abs/2306.09347)] [[code](ht
 </p>
 
 
-
+<p>
+<font size=3><b>A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot</b></font>
+<br>
+<font size=2>Aanisha Bhattacharyya*, Yaman K Singla*, Balaji Krishnamurthy, Rajiv Ratn Shah, Changyou Chen</font>
+<br>
+<a href='https://aclanthology.org/2023.emnlp-main.608/'>[paper]</a>
+<a href='https://behavior-in-the-wild.github.io/video-4096.html'>[website]</a>
+</p>
 
 
 # :snowflake: Papers on Efficient Model Adaptation
